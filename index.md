@@ -34,4 +34,5 @@ Um auf dem Laufenden zu bleiben, gerne die Newsletter abonnieren:
 
 ## Social Media
 
-Wir sind bei [Twitter](https://twitter.com/KlimaLautern).
+Wir sind bei [Twitter](https://twitter.com/KlimaLautern) und
+<a rel="me" href="https://climatejustice.social/@KlimaLautern">Mastodon</a>.
