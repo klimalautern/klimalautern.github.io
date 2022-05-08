@@ -1,1 +1,10 @@
-theme: jekyll-theme-cayman
+title: Klimaentscheid Kaiserslautern
+tagline: Landkreis und Stadt Kaiserslautern klimaneutral!
+url: https://klimaentscheid-kaiserslautern.github.io/
+
+author:
+  name: Klimaentscheid Kaiserslautern
+  url: https://klimaentscheid-kaiserslautern.github.io/
+  twitter: KlimaLautern
+
+markdown: kramdown
