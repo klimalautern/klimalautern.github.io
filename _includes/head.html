@@ -1,0 +1,27 @@
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }}</title>
+  {% feed_meta %}
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#157878">
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/cayman.css">
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:creator" content="@KlimaLautern" />
+  <meta property="og:url" content="{{ page.url }}" /
+  <meta property="twitter:title" content="{{ page.title }}" />
+  <meta property="og:title" content="{{ page.title }}" />
+  <meta property="og:type" content="{{ page.type | default: "article" }}" />
+  {% if page.twitterimage %}
+  <meta property="og:image" content="{{ site.url }}/{{ page.twitterimage }}" />
+  <meta property="twitter:image" content="{{ site.url }}/{{ page.twitterimage }}" />
+  <meta property="twitter:image:alt" content="{{ page.twitterimagealt }}" />
+  {% else %}
+  <meta property="og:image" content="{{ site.url }}/klimeentscheidkaiserslautern.png" />
+  <meta property="twitter:image" content="{{ site.url }}/klimeentscheidkaiserslautern.png" />
+  <meta property="twitter:image:alt" content="Klimaentscheid
+  Kaiserslautern Logo" />
+  {% endif %}
+  <meta property="og:description" content="{{ page.description }}" />
+  <meta property="twitter:description" content="{{ page.description }}" />
+</head>
