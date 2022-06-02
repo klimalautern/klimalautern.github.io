@@ -24,7 +24,7 @@ starten eigene Projekte.
 ## Lust mitzumachen?
 
 Gerne per [EMail](mailto:klimaentscheid-kaiserslautern@web.de)
-melden - wir haben eine Signal-Gruppe und treffen uns regelmäßig per
+melden - wir haben eine [Signal-Gruppe](https://signal.group/#CjQKIB8L8C3-DrBZoSV1Sz8-mn2hebfwos8lYPOQL-q8sTufEhCPhYJdtDTiwMp8-YFOp8Ko) und treffen uns regelmäßig per
 Zoom.
 
 ## Social Media
