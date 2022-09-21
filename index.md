@@ -31,3 +31,19 @@ Zoom.
 
 Wir sind bei [Twitter](https://twitter.com/KlimaLautern) und
 <a rel="me" href="https://climatejustice.social/@KlimaLautern">Mastodon</a>.
+
+## German Zero
+
+[German Zero](https://germanzero.de/) hat das Ziel, Deutschland bis
+2035 klimaneutral zu machen. Dafür unterstützen sie
+Klimaentscheid-Teams wie den Klimaentscheid Kaiserslautern.
+
+<a href="https://germanzero.de/">
+<img 
+    style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 20%;"
+    src="Logo_GermanZero.png" 
+    alt="German Zero" />
+</a>
