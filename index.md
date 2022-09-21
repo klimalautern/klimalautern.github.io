@@ -29,8 +29,11 @@ Zoom.
 
 ## Social Media
 
-Wir sind bei [Twitter](https://twitter.com/KlimaLautern) und
-<a rel="me" href="https://climatejustice.social/@KlimaLautern">Mastodon</a>.
+Wir sind bei [Twitter](https://twitter.com/KlimaLautern),
+<a rel="me"
+href="https://climatejustice.social/@KlimaLautern">Mastodon</a>,
+[Facebook](https://www.facebook.com/KlimaLautern) und
+[Instagram](https://www.instagram.com/klimalautern/). 
 
 ## German Zero
 
