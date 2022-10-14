@@ -1,5 +1,5 @@
 ---
-title: Klimaentscheid Kaiserslautern
+title: KlimaLautern - Klimaentscheid Kaiserslautern
 type: website
 description: Stadt und Landkreis Kaiserslautern klimaneutral!
 ---
@@ -20,6 +20,17 @@ bis spätestens 2035 klimaneutral zu werden.
 Auch danach werden wir Politik und Verwaltung bei der Umsetzung
 unterstützen, die Beteiligung der Bürger:innen organisieren und
 starten eigene Projekte.
+
+<a href="https://klimalautern.github.io/">
+<img 
+    style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 20%;"
+    src="Logo_KlimaLautern.jpeg" 
+    alt="Logo KlimaLautern" />
+</a>
+
 
 ## Lust mitzumachen?
 
@@ -48,5 +59,5 @@ Klimaentscheid-Teams wie den Klimaentscheid Kaiserslautern.
            margin-right: auto;
            width: 20%;"
     src="Logo_GermanZero.png" 
-    alt="German Zero" />
+    alt="Logo German Zero" />
 </a>
