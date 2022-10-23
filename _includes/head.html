@@ -11,14 +11,13 @@
   <meta property="og:title" content="{{ page.title }}" />
   <meta property="og:type" content="{{ page.type | default: "article" }}" />
   {% if page.twitterimage %}
-  <meta property="og:image" content="{{ site.url }}/{{ page.twitterimage }}" />
-  <meta property="twitter:image" content="{{ site.url }}/{{ page.twitterimage }}" />
+  <meta property="og:image" content="/{{ page.twitterimage }}" />
+  <meta property="twitter:image" content="/{{ page.twitterimage }}" />
   <meta property="twitter:image:alt" content="{{ page.twitterimagealt }}" />
   {% else %}
-  <meta property="og:image" content="{{ site.url }}/klimeentscheidkaiserslautern.png" />
-  <meta property="twitter:image" content="{{ site.url }}/klimeentscheidkaiserslautern.png" />
-  <meta property="twitter:image:alt" content="Klimaentscheid
-  Kaiserslautern Logo" />
+  <meta property="og:image" content="/images/TwitterImage.png" />
+  <meta property="twitter:image" content="/images/TwitterImage.png" />
+  <meta property="twitter:image:alt" content="KlimaLautern Logo" />
   {% endif %}
   <meta property="og:description" content="{{ page.description }}" />
   <meta property="twitter:description" content="{{ page.description }}" />
