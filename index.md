@@ -6,7 +6,7 @@ description: Stadt und Landkreis Kaiserslautern klimaneutral!
 
 ## Erstes Arbeitstreffen
 
-Dienstag 17:00 
+Dienstag, 29.11., 17:00 Uhr
 
 Stadtmission, Brüderstraße 1, 67659 Kaiserslautern
 
