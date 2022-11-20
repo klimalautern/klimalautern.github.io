@@ -31,18 +31,13 @@ starten eigene Projekte.
     alt="Logo KlimaLautern" />
 </a>
 
-## Offenes Kick Off
+## Erstes Arbeitstreffen
 
-Freitag 18.11. 18:00
+Dienstag 17:00 
 
-Theodor-Zink-Museum, Steinstraße 48, 67657 Kaiserslautern
+Stadtmission, Brüderstraße 1, 67659 Kaiserslautern
 
-Mit Kurzvortrag von Dr. Astrid Kleber
-Kompetenzzentrum für Klimawandelfolgen RLP
-
-Wir stellen uns vor, zeigen was wir vor haben und wie man mitmachen
-kann. Und natürlich beantworten wir eure Fragen. Kommt einfach
-vorbei - wir freuen uns!
+Wir beginnen, mit Euch unsere Aktivitäten zu planen. Kommt gerne vorbei!
 
 ## Lust mitzumachen?
 
