@@ -4,6 +4,16 @@ type: website
 description: Stadt und Landkreis Kaiserslautern klimaneutral!
 ---
 
+## Erstes Arbeitstreffen
+
+Dienstag 17:00 
+
+Stadtmission, Brüderstraße 1, 67659 Kaiserslautern
+
+Wir beginnen, mit Euch unsere Aktivitäten zu planen. Kommt gerne vorbei!
+
+## Über uns
+
 Viele Klimaziele müssen vor Ort umgesetzt werden – auch in der Stadt
 und im Landkreis Kaiserslautern. Daran wollen wir arbeiten.
 
@@ -31,13 +41,6 @@ starten eigene Projekte.
     alt="Logo KlimaLautern" />
 </a>
 
-## Erstes Arbeitstreffen
-
-Dienstag 17:00 
-
-Stadtmission, Brüderstraße 1, 67659 Kaiserslautern
-
-Wir beginnen, mit Euch unsere Aktivitäten zu planen. Kommt gerne vorbei!
 
 ## Lust mitzumachen?
 
