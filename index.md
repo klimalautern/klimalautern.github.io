@@ -31,16 +31,6 @@ Auch danach werden wir Politik und Verwaltung bei der Umsetzung
 unterstützen, die Beteiligung der Bürger:innen organisieren und
 starten eigene Projekte.
 
-<a href="https://klimalautern.github.io/">
-<img 
-    style="display: block; 
-           margin-left: auto;
-           margin-right: auto;
-           width: 20%;"
-    src="Logo_KlimaLautern.jpeg" 
-    alt="Logo KlimaLautern" />
-</a>
-
 
 ## Lust mitzumachen?
 
