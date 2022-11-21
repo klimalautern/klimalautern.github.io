@@ -7,4 +7,7 @@ author:
   url: https://klimalautern.de/
   twitter: KlimaLautern
 
+plugins:
+  - jekyll-feed
+
 markdown: kramdown
