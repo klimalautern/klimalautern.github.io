@@ -1,0 +1,35 @@
+.collection-items {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  grid-gap: 2rem;
+  margin-bottom: var(--space-5);
+}
+.collection-items__item {
+  display: flex;
+  flex-direction: column;
+  border: 3px solid var(--grey-light);
+  text-decoration: none;
+}
+.collection-items__preview {
+  display: flex;
+  flex-direction: column;
+  padding: 1.2rem;
+  height: 100%;
+}
+.collection-items__label {
+  font-family: var(--text);
+  font-weight: var(--text-semi-bold);
+  color: var(--green);
+  font-size: 0.8rem;
+  margin-bottom: var(--space-2);
+}
+.collection-items__title {
+  margin-bottom: var(--space-2);
+  font-size: 1.3rem;
+}
+.collection-items__date {
+  margin-top: auto;
+  font-family: var(--text);
+  font-weight: var(--text-semi-bold);
+  color: var(--grey);
+}
