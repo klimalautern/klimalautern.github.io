@@ -4,7 +4,7 @@ title: KlimaLautern.de Impressum
 
 Angaben gemäß §5 TMG: klimalautern.de ist eine private
 Publikation von Eberhard Wolff, Karcherstr. 22, 67655 Kaiserslautern;
-EMail: eberhard.wolff At @ posteo Punkt net.
+EMail: info At @ klimalautern Punkt de.
 
 Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten
 Kontaktdaten durch Dritte zur Übersendung von nicht ausdrücklich
