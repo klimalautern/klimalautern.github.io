@@ -4,20 +4,6 @@ type: website
 description: Stadt und Landkreis Kaiserslautern klimaneutral!
 ---
 
-## Erstes Arbeitstreffen
-
-Dienstag, 29.11., 17:00 Uhr
-
-Stadtmission, Brüderstraße 1, 67659 Kaiserslautern
-
-Beim ersten Arbeitstreffen wollen wir gemeinsam mit allen
-Interessierten ins Arbeiten kommen. Hierfür werden wir gemeinsam Ideen
-und Themenfelder bestimmen, die wir dann an einzelne Arbeitsgruppen
-geben. Die Gruppen arbeiten dann parallel an den Themenfeldern. Nach
-dem ersten Treffen werden wir euch wieder per Newsletter auf den
-neusten Stand bringen, welche Themengruppen sich ergeben haben. Kommt
-gerne vorbei!
-
 ## Über uns
 
 Viele Klimaziele müssen vor Ort umgesetzt werden – auch in der Stadt
