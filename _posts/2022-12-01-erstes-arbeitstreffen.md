@@ -10,7 +10,7 @@ Mit der erfolgreichen Kick-Off Veranstaltung im Rücken haben wir uns
 am 29.11.2022 zum ersten Arbeitstreffen von KlimaLautern
 getroffen. Mit über 20 Teilnehmenden wurde der Startschuss der
 inhaltlichen Arbeit eingeleitet. Die Gruppe bestand dabei aus
-unterschiedlichen Alters- und Berufsgruppen, so dass sich bei der
+unterschiedlichen Alters- und Berufsgruppen, sodass sich bei der
 anfänglichen Vorstellung ein breites Kompetenz- und Interessenspektrum
 zeigte. Das Ziel dieser Veranstaltung bestand darin, eigene Ideen und
 Themenfelder zu erschließen, die im späteren Verlauf – auch über
@@ -22,26 +22,25 @@ Auseinandersetzung mit dem "Masterplan" der Stadt Kaiserslautern
 Verkehrskonzept, Stadtbegrünung, Öffentlichkeitsarbeit & Bildung,
 Privathaushalte, Windkraft und Klimastammtisch. Dies sind die
 Themen, die den anwesenden Personen ein Anliegen waren. Das bedeutet
-weder, dass die Arbeit hiermit aufhört, noch, dass es keine anderen
-Arbeitsfelder in Zukunft geben soll.
+weder, dass die Arbeit hiermit aufhört, noch, dass es in Zukunft keine anderen
+Arbeitsfelder geben soll.
 
 ![Eindruck vom ersten Arbeitstreffen](/images/2022-12-01-erstes-arbeitstreffen.jpg)
 *Eindruck vom ersten Arbeitstreffen*
 
-Wir freuen uns sehr, dass der erste Schritt zur Klimaneutralität
-Kaiserslauterns gestartet ist und sind gespannt auf die ersten
+Wir freuen uns sehr über den Arbeitsbeginn einer breiten zivilgesellschaftlichen Bewegung zur Klimaneutralität Kaiserslauterns und sind gespannt auf die ersten
 Ergebnisse der Arbeitsgruppen. Unser nächsten Treffen ist für Anfang
 Januar geplant. 
 
-Wenn Du auch Interesse haben Teil von KlimaLautern zu werden, dann
-melden Sie sich gerne über SocialMedia
+Wenn Du Interesse hast, Teil von KlimaLautern zu werden, dann
+melde Dich gerne über SocialMedia
 ([Twitter](https://twitter.com/KlimaLautern),
 [Mastodon](https://climatejustice.social/@KlimaLautern),
 [Facebook](https://www.facebook.com/KlimaLautern),
 [Instagram](https://www.instagram.com/klimalautern/) ) , per
-[EMail](mailto:info@klimalautern.de), trete der
+[EMail](mailto:info@klimalautern.de), tritt der
 [Signal-Gruppe](https://signal.group/#CjQKIB8L8C3-DrBZoSV1Sz8-mn2hebfwos8lYPOQL-q8sTufEhCPhYJdtDTiwMp8-YFOp8Ko)
-bei oder aboniere den Newsletter. Dann verpasst Du keine Informationen
+bei oder abonniere den Newsletter. So verpasst Du keine Informationen
 zu den nächsten Treffen und dem aktuellen Stand.
 
 <iframe class="mj-w-res-iframe" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://app.mailjet.com/widget/iframe/7RcH/ORm" width="100%"></iframe>
