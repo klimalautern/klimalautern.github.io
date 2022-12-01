@@ -30,6 +30,10 @@ Gerne per [EMail](mailto:info@klimalautern.de)
 melden - wir haben eine [Signal-Gruppe](https://signal.group/#CjQKIB8L8C3-DrBZoSV1Sz8-mn2hebfwos8lYPOQL-q8sTufEhCPhYJdtDTiwMp8-YFOp8Ko) und treffen uns regelmäßig per
 Zoom.
 
+<iframe class="mj-w-res-iframe" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://app.mailjet.com/widget/iframe/7RcH/ORm" width="100%"></iframe>
+
+<script type="text/javascript" src="https://app.mailjet.com/statics/js/iframeResizer.min.js"></script>
+
 ## Social Media
 
 Wir sind bei [Twitter](https://twitter.com/KlimaLautern),
