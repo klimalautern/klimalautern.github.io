@@ -3,7 +3,7 @@
   <title>{{ page.title }}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#157878">
-  <link rel="stylesheet" href="{{ site.url }}css/main.css">
+  <link rel="stylesheet" href="{{ site.url }}/css/main.css">
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:creator" content="@KlimaLautern" />
   <meta property="og:url" content="{{ page.url }}" /
@@ -11,12 +11,12 @@
   <meta property="og:title" content="{{ page.title }}" />
   <meta property="og:type" content="{{ page.type | default: "article" }}" />
   {% if page.thumbnail %}
-  <meta property="og:image" content="{{ site.url }}{{ page.thumbnail }}" />
-  <meta property="twitter:image" content="{{ site.url }}{{ page.thumbnail }}" />
+  <meta property="og:image" content="{{ site.url }}/{{ page.thumbnail }}" />
+  <meta property="twitter:image" content="{{ site.url }}/{{ page.thumbnail }}" />
   <meta property="twitter:image:alt" content="{{ page.description }}" />
   {% else %}
-  <meta property="og:image" content="{{ site.url }}images/TwitterImage.png" />
-  <meta property="twitter:image" content="{{ site.url }}images/TwitterImage.png" />
+  <meta property="og:image" content="{{ site.url }}/images/TwitterImage.png" />
+  <meta property="twitter:image" content="{{ site.url }}/images/TwitterImage.png" />
   <meta property="twitter:image:alt" content="{{ page.description }}" />
   {% endif %}
   <meta property="og:description" content="{{ page.description }}" />
