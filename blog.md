@@ -19,7 +19,6 @@ description: Blog von KlimaLautern - Klimaentscheid Kaiserslautern
 </a>
 {% endfor %}
 
-
 </div>
 
-
+[Atom Feed](feed.xml)
