@@ -36,6 +36,14 @@ Falls hier kein Formular erscheint, bitte den Werbeblocker ausschalten.
 
 Wir werden dann diesen Appell an die Mitglieder des Stadtrats richten:
 
+Sehr geehter Herr Vorsitzender, sehr geehrte Mitglieder des Stadtrats, 
+
+Wir teilen ihre Vision einer Null-Emissions-Stadt und verfolgen mit
+großem Interesse die bisher erreichten Ziele und Umsetzungen im
+Hinblick auf den „Masterplan 100% Klimaschutz: Energiewende
+Kaiserslautern - Gemeinsam zum Ziel. Vernetzung von Technologie, Raum
+und Akteuren“ (MPK).
+
 Nach der Analyse der Treibhausgas-Emissionsentwicklung für den
 Masterplan 100 % Klimaschutz Kaiserslautern durch das Institut für
 Energie und Umweltforschung (ifeu) hat sich gezeigt, dass für die
