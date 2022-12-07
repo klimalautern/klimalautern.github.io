@@ -4,6 +4,11 @@ type: website
 description: Stadt und Landkreis Kaiserslautern klimaneutral!
 ---
 
+## Was Du jetzt tun kannst
+
+Unterschreibe unseren [Appell](/appell-klimapakt.html) für den
+Beitritt Kaiserslauterns zum Kommunalen Klimapakt!
+
 ## Über uns
 
 Viele Klimaziele müssen vor Ort umgesetzt werden – auch in der Stadt
