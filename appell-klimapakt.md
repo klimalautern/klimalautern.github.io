@@ -7,13 +7,15 @@ description: Unser Appell für den Beitritt zum Kommunaler Klimapakt
 ## Kommunaler Klimapakt: Worum es geht
 
 Die Stadt Kaiserslautern hat sich in ihrem Masterplan 100% Klimaschutz
-das Ziel gesetzt, bis 2050 klimaneutral zu werden. Eine aktuelle
-Untersuchung des ifeu (Institut für Energie und Umweltforschung)
+das Ziel gesetzt, bis 2050 klimaneutral zu werden. [Eine aktuelle
+Untersuchung](https://ris.kaiserslautern.de/buergerinfo/getfile.asp?id=90049&type=do)
+des ifeu (Institut für Energie und Umweltforschung)
 bestätigt, dass Kaiserslautern dieses Ziel sogar bis 2040 bereits
 erreichen könnte.
 
-Ein wichtiger Baustein wäre der Beitritt der Stadt zum Kommunalen
-Klimapakt. Mit diesem verpflichtet sich Kaiserslautern zur
+Ein wichtiger Baustein wäre der Beitritt der Stadt zum [Kommunalen
+Klimapakt](https://mkuem.rlp.de/de/themen/klima-und-ressourcenschutz/klimaschutz/kommunaler-klimapakt-rheinland-pfalz/). Mit
+diesem verpflichtet sich Kaiserslautern zur
 Klimaneutralität bis 2040 und erhält im Gegenzug Unterstützung vom
 Land RLP. Fordere mit Deinem Namen die Ratsmitglieder dazu auf, bei
 der Abstimmung sich für den Beitritt zu entscheiden und zeige, dass
@@ -56,4 +58,14 @@ KlimaLautern
 
 gezeichnet: 
 
-Lokalgruppe GermanZero KlimaLautern + Privatpersonen
+Lokalgruppe GermanZero KlimaLautern + hier könnte Dein Name stehen!
+
+## Links
+
+* [Masterplan 100% Klimaschutz 2050 Kaiserslautern](https://www.kaiserslautern.de/sozial_leben_wohnen/umwelt/klimaschutz/konzepte/masterplan/index.html.de)
+* [ifeu Untersuchung zur Klimaneutralität
+  2040](https://ris.kaiserslautern.de/buergerinfo/getfile.asp?id=90049&type=do)
+* [Kommunaler
+Klimapakt](https://mkuem.rlp.de/de/themen/klima-und-ressourcenschutz/klimaschutz/kommunaler-klimapakt-rheinland-pfalz/)
+* [Erklärung des Kommunlaen
+  Klimapakts](https://mkuem.rlp.de/fileadmin/mulewf/Themen/Klima-_und_Ressourcenschutz/Klimaschutz/Kommunalen_Klimapakt/Gemeinsame_Erklaerung_mit_Unterschrift.pdf)
