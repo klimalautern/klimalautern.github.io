@@ -30,6 +30,8 @@ Bitte unterstütze uns dabei, indem du dich hier einträgst:
 <script type="text/javascript"
 src="https://app.mailjet.com/statics/js/iframeResizer.min.js"></script>
 
+Falls hier kein Formular erscheint, bitte den Werbeblocker ausschalten.
+
 ## Unser Appell an den Stadtrat
 
 Wir werden dann diesen Appell an die Mitglieder des Stadtrats richten:

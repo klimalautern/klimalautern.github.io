@@ -39,6 +39,9 @@ Zoom.
 
 <script type="text/javascript" src="https://app.mailjet.com/statics/js/iframeResizer.min.js"></script>
 
+Falls hier kein Formular für die Newsletter erscheint, bitte den
+Werbeblocker ausschalten.
+
 ## Social Media
 
 Wir sind bei [Twitter](https://twitter.com/KlimaLautern),

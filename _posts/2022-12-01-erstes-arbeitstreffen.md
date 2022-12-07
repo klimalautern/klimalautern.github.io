@@ -47,3 +47,5 @@ zu den nächsten Treffen und dem aktuellen Stand.
 
 <script type="text/javascript" src="https://app.mailjet.com/statics/js/iframeResizer.min.js"></script>
 
+Falls hier kein Formular für das Eintragen bei der Newsletter
+erscheint, bitte den Werbeblocker ausschalten.
