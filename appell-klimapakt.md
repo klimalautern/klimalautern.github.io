@@ -36,7 +36,7 @@ Falls hier kein Formular erscheint, bitte den Werbeblocker ausschalten.
 
 Wir werden dann diesen Appell an die Mitglieder des Stadtrats richten:
 
-Sehr geehter Herr Vorsitzender, sehr geehrte Mitglieder des Stadtrats, 
+Sehr geehrter Herr Vorsitzender, sehr geehrte Mitglieder des Stadtrats, 
 
 Wir teilen ihre Vision einer Null-Emissions-Stadt und verfolgen mit
 großem Interesse die bisher erreichten Ziele und Umsetzungen im
