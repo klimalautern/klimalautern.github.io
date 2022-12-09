@@ -63,7 +63,7 @@ dass Ihrer Zustimmung auch Taten folgen, um den Klimaschutz weiter
 voranzutreiben, und Sie so Ihren Beitrag leisten, um unsere Welt
 und unsere Stadt für uns und unsere Kinder zu erhalten.
 
-Mit freundlichen Grüße 
+Mit freundlichen Grüßen,
 KlimaLautern 
 
 gezeichnet: 
