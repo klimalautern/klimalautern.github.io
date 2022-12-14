@@ -6,6 +6,8 @@ thumbnail: /images/2022-12-01-erstes-arbeitstreffen.jpg
 tags: Veranstaltung
 ---
 
+# Unser Erstes Arbeitstreffen
+
 Mit der erfolgreichen Kick-Off Veranstaltung im Rücken haben wir uns
 am 29.11.2022 zum ersten Arbeitstreffen von KlimaLautern
 getroffen. Mit über 20 Teilnehmenden wurde der Startschuss der
@@ -28,7 +30,8 @@ Arbeitsfelder geben soll.
 ![Eindruck vom ersten Arbeitstreffen](/images/2022-12-01-erstes-arbeitstreffen.jpg)
 *Eindruck vom ersten Arbeitstreffen*
 
-Wir freuen uns sehr über den Arbeitsbeginn einer breiten zivilgesellschaftlichen Bewegung zur Klimaneutralität Kaiserslauterns und sind gespannt auf die ersten
+Wir freuen uns sehr über den Arbeitsbeginn einer breiten zivilgesellschaftlichen 
+Bewegung zur Klimaneutralität Kaiserslauterns und sind gespannt auf die ersten
 Ergebnisse der Arbeitsgruppen. Unser nächsten Treffen ist für Anfang
 Januar geplant. 
 
