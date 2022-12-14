@@ -36,15 +36,15 @@ Falls hier kein Formular erscheint, bitte den Werbeblocker ausschalten.
 
 Wir werden dann diesen Appell an die Mitglieder des Stadtrats richten:
 
-Sehr geehrter Herr Vorsitzender, sehr geehrte Mitglieder des Stadtrats, 
-
-Wir teilen ihre Vision einer Null-Emissions-Stadt und verfolgen mit
+>*Sehr geehrter Herr Vorsitzender, sehr geehrte Mitglieder des Stadtrats,* 
+>
+>*Wir teilen ihre Vision einer Null-Emissions-Stadt und verfolgen mit 
 großem Interesse die bisher erreichten Ziele und Umsetzungen im
 Hinblick auf den „Masterplan 100% Klimaschutz: Energiewende
 Kaiserslautern - Gemeinsam zum Ziel. Vernetzung von Technologie, Raum
-und Akteuren“ (MPK).
-
-Nach der Analyse der Treibhausgas-Emissionsentwicklung für den
+und Akteuren“ (MPK).*
+>
+>*Nach der Analyse der Treibhausgas-Emissionsentwicklung für den
 Masterplan 100 % Klimaschutz Kaiserslautern durch das Institut für
 Energie und Umweltforschung (ifeu) hat sich gezeigt, dass für die
 Stadt Kaiserslautern die Klimaneutralität bis 2040, wenn auch
@@ -52,23 +52,23 @@ ambitioniert, aber umsetzbar ist. Daher steht aus unserer Sicht der
 Klimaneutralität bis spätestens 2040 nichts im Wege. Wir,
 KlimaLautern - GermanZero Lokalgruppe, sprechen uns, gemeinsam mit den
 unten genannten Unterstützer:innen, entschieden dafür aus, dem
-Beitritt zum Kommunalen Klimapakt zuzustimmen.
-
-Darum bitten wir Sie, Ihre Stimme in der kommenden Stadtratssitzung
-entsprechend FÜR den Beitritt zum Kommunalen Klimapakt zu nutzen.
-
-Die Zustimmung zum Beitritt ist ein wichtiger Schritt Richtung
+Beitritt zum Kommunalen Klimapakt zuzustimmen.*
+>
+>*Darum bitten wir Sie, Ihre Stimme in der kommenden Stadtratssitzung
+entsprechend FÜR den Beitritt zum Kommunalen Klimapakt zu nutzen.*
+>
+>*Die Zustimmung zum Beitritt ist ein wichtiger Schritt Richtung
 Klimaneutralität. Jedoch ist es damit noch nicht getan. Wir hoffen,
 dass Ihrer Zustimmung auch Taten folgen, um den Klimaschutz weiter
 voranzutreiben, und Sie so Ihren Beitrag leisten, um unsere Welt
-und unsere Stadt für uns und unsere Kinder zu erhalten.
-
-Mit freundlichen Grüßen,
-KlimaLautern 
-
-gezeichnet: 
-
-Lokalgruppe GermanZero KlimaLautern + hier könnte Dein Name stehen!
+und unsere Stadt für uns und unsere Kinder zu erhalten.*
+>
+>*Mit freundlichen Grüßen,
+KlimaLautern*
+>
+>*gezeichnet:*
+>
+>*Lokalgruppe GermanZero KlimaLautern* + **hier könnte Dein Name stehen!**
 
 ## Links
 
