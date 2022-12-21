@@ -25,3 +25,19 @@ Hier steht Markdown-Text.
 - Das Thumbnail wird auch beim Überblick genutzt.
 - Bei den Tags gibt es im Moment nur Veranstaltungen, später können wir noch andere Tags einfügen.
 - Darunter steht dann der Text als [Markdown](https://github.github.com/gfm/).
+
+## Editieren
+
+- Erstelle Dir einen [GitHub-Account](https://github.com/join).
+- Oben auf der Website findest Du das Fork-Symbol. Damit erstellst Du eine eigene Kopie der Website. ![Fork Icon](/images/fork.png) 
+- Die Kopie findest Du dann bei GitHub dort, wo Du sie angelegt hast. Meine ist hier: [https://github.com/ewolff/klimalautern.github.io](https://github.com/ewolff/klimalautern.github.io).
+- Dort kannst Du nun Dateien anlegen, löschen oder editieren.
+  - Es gibt ein Preview, das aber nur einen Eindruck von dem Layout gibt. Die tatsächliche Seite wird anders aussehen.
+- Am Ende musst Du die Änderung jeweilt commiten. Schreibe Dazu einen aussagekrätigen Titel. Hier ist ein Beispiel: ![Commit Nachricht](/images/commit.png).
+  - Mit dem Commit ist Deine eigene Kopie aktualisiert, aber noch nicht die Website. Du kannst also nix kaputt machen.
+  - Der Commit soll direkt in den main-Branch gehen.
+- Wenn soweit alles fertig ist, kannst Du einen Pull Request erstellen.
+  - Mit dem Pull Request sorgst Du dafür, dass die Änderungen an Deiner eigenen Kopie auf die Website kommen. Es schaut aber nochmal jemand vorher über die Änderungen. Du kannst also nix kaputt machen.
+  - ![Pull Request erstellen](/images/pullrequest.png)
+  - Gib dem Pull Request einen sinnvollen Namen.
+  - Fertig!
