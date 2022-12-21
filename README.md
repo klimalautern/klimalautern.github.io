@@ -34,6 +34,10 @@ Hier steht Markdown-Text.
 - Dort kannst Du nun Dateien anlegen, löschen oder editieren.
   - Es gibt ein Preview, das aber nur einen Eindruck von dem Layout gibt. Die tatsächliche Seite wird anders aussehen.
 - Am Ende musst Du die Änderung jeweilt commiten. Schreibe Dazu einen aussagekrätigen Titel. Hier ist ein Beispiel: ![Commit Nachricht](/images/commit.png).
-  - Der Commit soll direkt in den main-Branch gehen.
   - Mit dem Commit ist Deine eigene Kopie aktualisiert, aber noch nicht die Website. Du kannst also nix kaputt machen.
+  - Der Commit soll direkt in den main-Branch gehen.
 - Wenn soweit alles fertig ist, kannst Du einen Pull Request erstellen.
+  - Mit dem Pull Request sorgst Du dafür, dass die Änderungen an Deiner eigenen Kopie auf die Website kommen. Es schaut aber nochmal jemand vorher über die Änderungen. Du kannst also nix kaputt machen.
+  - ![Pull Request erstellen](/images/pullrequest.png)
+  - Gib dem Pull Request einen sinnvollen Namen.
+  - Fertig!
