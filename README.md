@@ -29,13 +29,13 @@ Hier steht Markdown-Text.
 ## Editieren: Eigenen Fork erstellen
 
 - Erstelle Dir einen [GitHub-Account](https://github.com/join).
-- Oben auf der Website findest Du das Fork-Symbol. Damit erstellst Du einen eigenen Fork der Website.
+- Oben auf der [Website mit dem Quellcode](https://github.com/klimalautern/klimalautern.github.io) findest Du das Fork-Symbol. Damit erstellst Du einen eigenen Fork der Website.
 
 ![Fork Icon](/images/fork.png) 
 
-- Den Fork findest Du dann bei GitHub dort, wo Du sie angelegt hast. Meiner ist hier: [https://github.com/ewolff/klimalautern.github.io](https://github.com/ewolff/klimalautern.github.io).
-- Dort kannst Du nun Dateien anlegen, löschen oder editieren.
-  - Es gibt im Editor ein Preview, das aber nur einen Eindruck von dem Layout gibt. Die tatsächliche Seite wird anders aussehen.
+- Den Fork findest Du dann bei GitHub dort, wo Du ihn gerade angelegt hast. Meiner ist hier: [https://github.com/ewolff/klimalautern.github.io](https://github.com/ewolff/klimalautern.github.io).
+- Dort kannst Du nun Dateien anlegen, löschen oder editieren. Dazu sind Einträge im Menü vorhanden.
+- Es gibt im Editor ein Preview, das aber nur einen Eindruck von dem Layout gibt. Die tatsächliche Seite wird anders aussehen.
 
 ## Editieren: Eigenen Fork aktualisieren
 
@@ -49,7 +49,7 @@ Hier steht Markdown-Text.
 
 ## Änderungen Committen: Eigenen Fork ändern
 
-- Am Ende musst Du die Änderung jeweilt commiten. Schreibe Dazu einen aussagekrätigen Titel.
+- Wenn Du eine Datei geändert oder ergänzt hast, musst Du sie jeweils commiten. Schreibe dazu einen aussagekrätigen Titel, damit man weiß, was Du getan hast.
  
 ![Commit Nachricht](/images/commit.png).
 
@@ -59,7 +59,7 @@ Hier steht Markdown-Text.
 ## Pull Request: Änderungen für die Website bereitstellen 
 
 - Wenn soweit alles fertig ist, kannst Du einen Pull Request erstellen.
-  - Mit dem Pull Request sorgst Du dafür, dass die Änderungen an Deinem eigenen Fork auf die Website kommen. Es schaut aber nochmal jemand vorher über die Änderungen. Du kannst also nix kaputt machen.
+- Mit dem Pull Request schaffst Du die Voraussetzung dafür, dass die Änderungen an Deinem eigenen Fork auf die Website kommen. Es schaut aber nochmal jemand vorher über die Änderungen. Du kannst also nix kaputt machen.
 
 ![Pull Request erstellen](/images/pullrequest.png)
 
