@@ -4,6 +4,16 @@ type: website
 description: Stadt und Landkreis Kaiserslautern klimaneutral!
 ---
 
+## Nächste Treffen: 9.1. 18:00 an der Uni
+
+Nach dem ersten Treffen werden wir uns am 9.1. um 18:00 an der TU
+wieder treffen. Die Arbeitsgruppen werden berichten, was sie seit dem
+letzten Treffen erreicht haben und wir werden weitere Schritte
+diskutieren. Kommt gerne dazu - wir freuen uns!
+
+Wir treffen uns an der TU, Gebäude 46, Raum 225 - siehe
+[Lageplan](/images/2023-01-09-LageplanTreffen.jpeg).
+
 ## Was Du jetzt tun kannst
 
 Unterschreibe unseren [Appell](/appell-klimapakt.html) für den
