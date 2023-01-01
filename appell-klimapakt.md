@@ -70,6 +70,21 @@ KlimaLautern*
 >
 >*Lokalgruppe GermanZero KlimaLautern* + **hier könnte Dein Name stehen!**
 
+Unser Appel wird aktuell ([Datum der letzten Änderung]) **von [hier die Angabe] Personen unterstützt**. </br>
+Auch dabei:</br>
+<a href="https://germanzero.de/](https://www.uni-kl.de/nachhaltigkeit/future-nachhaltigkeit">
+<img 
+    style="display: block;
+           float:left;
+           margin-left: auto;
+           margin-right: auto;
+           width: 20%;"
+    src="Logo_FUTURE_Nachhaltigkeit_gross.png" 
+    alt="Hochschulgruppe **FUTURE Nachhaltigkeit** der TU Kaiserslautern" />
+</a>
+
+**Und Du?**
+
 ## Links
 
 * [Masterplan 100% Klimaschutz 2050 Kaiserslautern](https://www.kaiserslautern.de/sozial_leben_wohnen/umwelt/klimaschutz/konzepte/masterplan/index.html.de)
