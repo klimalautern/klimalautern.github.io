@@ -68,22 +68,36 @@ KlimaLautern*
 >
 >*gezeichnet:*
 >
->*Lokalgruppe GermanZero KlimaLautern* + **hier könnte Dein Name stehen!**
 
-Unser Appel wird aktuell ([Datum der letzten Änderung]) **von [hier die Angabe] Personen unterstützt**. </br>
-Auch dabei:</br>
-<a href="https://germanzero.de/](https://www.uni-kl.de/nachhaltigkeit/future-nachhaltigkeit">
+<a href="https://www.uni-kl.de/nachhaltigkeit/future-nachhaltigkeit">
 <img 
-    style="display: block;
-           float:left;
-           margin-left: auto;
-           margin-right: auto;
-           width: 20%;"
-    src="Logo_FUTURE_Nachhaltigkeit_gross.png" 
-    alt="Hochschulgruppe **FUTURE Nachhaltigkeit** der TU Kaiserslautern" />
+    style="
+	margin-left: auto;
+	margin-right: auto;
+	width: 20%"
+    src="/Logo_KlimaLautern.jpeg" 
+    alt="Lokalgruppe GermanZero KlimaLautern"
+	/>
+	Lokalgruppe GermanZero KlimaLautern
 </a>
 
-**Und Du?**
+<p />
+
+<a href="https://www.uni-kl.de/nachhaltigkeit/future-nachhaltigkeit">
+<img 
+	style="
+	margin-left: auto;
+	margin-right: auto;
+	width: 20%"
+    src="/images/logo-future-nachhaltigkeit.png" 
+    alt="Hochschulgruppe FUTURE Nachhaltigkeit der TU Kaiserslautern"
+	/>
+	Hochschulgruppe FUTURE Nachhaltigkeit der TU Kaiserslautern
+</a>
+
+<p />
+
+**Hier könnte Dein Name stehen!**
 
 ## Links
 
