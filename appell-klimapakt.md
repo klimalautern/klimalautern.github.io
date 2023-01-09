@@ -106,5 +106,5 @@ KlimaLautern*
   2040](https://ris.kaiserslautern.de/buergerinfo/getfile.asp?id=90049&type=do)
 * [Kommunaler
 Klimapakt](https://mkuem.rlp.de/de/themen/klima-und-ressourcenschutz/klimaschutz/kommunaler-klimapakt-rheinland-pfalz/)
-* [Erklärung des Kommunlaen
+* [Erklärung des Kommunalen
   Klimapakts](https://mkuem.rlp.de/fileadmin/mulewf/Themen/Klima-_und_Ressourcenschutz/Klimaschutz/Kommunalen_Klimapakt/Gemeinsame_Erklaerung_mit_Unterschrift.pdf)
