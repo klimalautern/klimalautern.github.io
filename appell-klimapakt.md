@@ -50,7 +50,7 @@ Energie und Umweltforschung (ifeu) hat sich gezeigt, dass für die
 Stadt Kaiserslautern die Klimaneutralität bis 2040, wenn auch
 ambitioniert, aber umsetzbar ist. Daher steht aus unserer Sicht der
 Klimaneutralität bis spätestens 2040 nichts im Wege. Wir,
-KlimaLautern - GermanZero Lokalgruppe, sprechen uns, gemeinsam mit den
+KlimaLautern - LocalZero Lokalgruppe, sprechen uns, gemeinsam mit den
 unten genannten Unterstützer:innen, entschieden dafür aus, dem
 Beitritt zum Kommunalen Klimapakt zuzustimmen.*
 >
@@ -76,9 +76,9 @@ KlimaLautern*
 	margin-right: auto;
 	width: 20%"
     src="/Logo_KlimaLautern.jpeg" 
-    alt="Lokalgruppe GermanZero KlimaLautern"
+    alt="Lokalgruppe LocalZero KlimaLautern"
 	/>
-	Lokalgruppe GermanZero KlimaLautern
+	Lokalgruppe LocalZero KlimaLautern
 </a>
 
 <p />

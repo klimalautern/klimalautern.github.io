@@ -60,13 +60,19 @@ href="https://climatejustice.social/@KlimaLautern">Mastodon</a>,
 [Facebook](https://www.facebook.com/KlimaLautern) und
 [Instagram](https://www.instagram.com/klimalautern/). 
 
-## German Zero
+## LocalZero und German Zero
 
-[German Zero](https://germanzero.de/) hat das Ziel, Deutschland bis
+Bei [LocalZero](https://localzero.net/) schließen sich engagierte
+Menschen in Lokalteams zusammen, kommunale Politik und Verwaltung
+überarbeiten ihre Pläne, Unternehmen richten sich neu aus. Sie alle
+haben verstanden, dass wir klimaneutral werden müssen – und zwar bis
+spätestens 2035.
+
+[GermanZero](https://germanzero.de/) hat das Ziel, Deutschland bis
 2035 klimaneutral zu machen. Dafür unterstützen sie
 Klimaentscheid-Teams wie den Klimaentscheid Kaiserslautern.
 
-<a href="https://germanzero.de/">
+<a href="https://localzero.net/">
 <img 
     style="display: block; 
            margin-left: auto;
