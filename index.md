@@ -47,6 +47,17 @@ Wir arbeiten in Gruppen, die sich um diese Themen kümmern:
 * Verkehrskonzept und Stadtgrün
 * Masterplan
 
+## Steuerkreis
+
+Der Steuerkreis koordiniert und trifft zwischen den Treffen
+kurzfristig Entscheidungen. Mitglieder (alphabetisch):
+
+* Carmen
+* Chris
+* Eberhard
+* Julia
+* Sven
+
 ## Lust mitzumachen?
 
 Gerne per [EMail](mailto:info@klimalautern.de)
