@@ -38,6 +38,14 @@ Auch danach werden wir Politik und Verwaltung bei der Umsetzung
 unterstützen, die Beteiligung der Bürger:innen organisieren und
 starten eigene Projekte.
 
+## Gruppen
+
+Wir arbeiten in Gruppen, die sich um diese Themen kümmern:
+
+* Öffentlichkeit und Bildung
+* Private Haushalte
+* Verkehrskonzept und Stadtgrün
+* Masterplan
 
 ## Lust mitzumachen?
 
