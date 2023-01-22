@@ -89,7 +89,7 @@ CO₂. "Der gesunkene Emissionsfaktor für den Bundesmix Strom … [ist]
 die Hauptursache für die Gesamteinsparung der Stadt."
 [[p.6]](https://ris.kaiserslautern.de/buergerinfo/getfile.asp?id=90049&type=do). Also
 nicht die Maßnahmen der Stadt, sondern der Fortschritt bei der
-Energieversorgung ist die Hauptursache für die Emissionsreduktion in
+Energieversorgung ist laut ifeu die Hauptursache für die Emissionsreduktion in
 Kaiserslautern.
 
 Soweit die aus unserer Sicht besonders interessanten Punkte aus der
