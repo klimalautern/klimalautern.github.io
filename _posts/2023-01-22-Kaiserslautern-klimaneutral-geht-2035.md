@@ -26,23 +26,24 @@ internationale und nationale Fördermittel- und Auftraggeber.
 
 Ein Ergebnis der [ifeu-Studie vom August
 2022](https://ris.kaiserslautern.de/buergerinfo/getfile.asp?id=90049&type=do):
-Statt 2050 wird das Ziel Klimaneutralität 2040 “ausdrücklich
-empfohlen”
-[p.18](https://ris.kaiserslautern.de/buergerinfo/getfile.asp?id=90049&type=do). Um
+Statt 2050 wird das Ziel Klimaneutralität 2040 "ausdrücklich
+empfohlen"
+[[p.18]](https://ris.kaiserslautern.de/buergerinfo/getfile.asp?id=90049&type=do). Um
 die Zahl in Relation zu setzen: Das Bundesverfassungsgericht hat den
 Bund dazu gezwungen, von 2050 als Ziel Abstand zu nehmen, so dass der
 Bund 2045 anstrebt
-[p.17](https://ris.kaiserslautern.de/buergerinfo/getfile.asp?id=90049&type=do). Das
+[[p.17]](https://ris.kaiserslautern.de/buergerinfo/getfile.asp?id=90049&type=do). Das
 Land Rheinland-Pfalz strebt 2040 an
-[p.17](https://ris.kaiserslautern.de/buergerinfo/getfile.asp?id=90049&type=do). Mit
+[[p.17]](https://ris.kaiserslautern.de/buergerinfo/getfile.asp?id=90049&type=do). Mit
 2040 wäre Kaiserslautern also auf einer Stufe mit dem Land
 Rheinland-Pfalz. Es gibt laut der ifeu-Studie “zahlreiche”
 Masterplan-Kommunen, die eine frühere Klimaneutralität anstreben: 2030
-oder 2035. [p.17](https://ris.kaiserslautern.de/buergerinfo/getfile.asp?id=90049&type=do). Für
+oder 2035. [[p.17]](https://ris.kaiserslautern.de/buergerinfo/getfile.asp?id=90049&type=do). Für
 die Einhaltung des Pariser Klimaschutzabkommens, auf das sich die
-Menschheit völkerrechtlich bindend geeinigt hat, muss Deutschland 2035
-klimaneutral werden [1]. Der [Sachverständigenrat für Umweltfragen
-(SRU) der Bundesregierung
+Menschheit völkerrechtlich bindend geeinigt hat, muss [Deutschland
+2035 klimaneutral](https://germanzero.de/warum-wir-handeln-muessen)
+werden. Der [Sachverständigenrat für Umweltfragen (SRU) der
+Bundesregierung
 Deutschland](https://www.umweltrat.de/SharedDocs/Pressemitteilungen/DE/2020_2024/2022_06_fragen_und_antworten_zum_co2_budget.html
 ) nennt sogar 2031 als Ziel für die Klimaneutralität Deutschlands, um
 das Pariser Ziel, die Erderwärmung auf "möglichst 1,5°C zu begrenzen",
@@ -59,34 +60,34 @@ Klimaneutralität 2050 erreicht worden sind. Im Bereich Raumwärme hat
 der Masterplan selbst im schlechtesten Fall eine Reduktion der
 Treibhausgasemissionen von 2015 bis 2019 um 20% eingeplant. Die
 Realität ist eine Zunahme um 11,1% (mit Witterungskorrekur, 4,2% ohne)
-[p.7](https://ris.kaiserslautern.de/buergerinfo/getfile.asp?id=90049&type=do). Geplant
+[[p.7]](https://ris.kaiserslautern.de/buergerinfo/getfile.asp?id=90049&type=do). Geplant
 war, die Sanierungsrate von Gebäuden mehr als zu verdoppeln, um
 Energie einzusparen (von 0,8% im Jahr auf 1,8%)
-[p.7](https://ris.kaiserslautern.de/buergerinfo/getfile.asp?id=90049&type=do). Dies
+[[p.7]](https://ris.kaiserslautern.de/buergerinfo/getfile.asp?id=90049&type=do). Dies
 ist allerdings nicht eingetreten. Das ifeu listet konkrete Maßnahmen
 auf
-[p.8](https://ris.kaiserslautern.de/buergerinfo/getfile.asp?id=90049&type=do),
+[[p.8]](https://ris.kaiserslautern.de/buergerinfo/getfile.asp?id=90049&type=do),
 welche die Stadt Kaiserslautern umsetzen kann, um die selbstgesteckten
 Ziele doch zu erreichen.
 
 Ebenfalls sieht das ifeu Herausforderungen beim Erreichen der Ziele im
 Bereich Verkehr
-[p.8](https://ris.kaiserslautern.de/buergerinfo/getfile.asp?id=90049&type=do). Kaiserslautern
+[[p.8]](https://ris.kaiserslautern.de/buergerinfo/getfile.asp?id=90049&type=do). Kaiserslautern
 hat zwar ein umfangreiches Maßnahmenpaket in Gang gesetzt, aber eine
 Wirkung ist noch nicht feststellbar
-[p.8](https://ris.kaiserslautern.de/buergerinfo/getfile.asp?id=90049&type=do). Auch
+[[p.8]](https://ris.kaiserslautern.de/buergerinfo/getfile.asp?id=90049&type=do). Auch
 in diesem Bereich schlägt das ifeu konkrete Maßnahmen vor
-[p.15](https://ris.kaiserslautern.de/buergerinfo/getfile.asp?id=90049&type=do).
+[[p.15]](https://ris.kaiserslautern.de/buergerinfo/getfile.asp?id=90049&type=do).
 Eine weitere Idee aus der Studie: Die Stadtverwaltung Kaiserslautern
 könnte mit gutem Beispiel vorangehen und ein Ziel für die
 Klimaneutralität der Stadtverwaltung festlegen
-[p.16](https://ris.kaiserslautern.de/buergerinfo/getfile.asp?id=90049&type=do).
+[[p.16]](https://ris.kaiserslautern.de/buergerinfo/getfile.asp?id=90049&type=do).
 
 Es gibt auch Bereiche mit Emissionsreduktion. Durch erneuerbare
 Energien entstehen bei der Stromerzeugung mittlerweile weniger
 CO₂. "Der gesunkene Emissionsfaktor für den Bundesmix Strom … [ist]
 die Hauptursache für die Gesamteinsparung der Stadt."
-[p.6](https://ris.kaiserslautern.de/buergerinfo/getfile.asp?id=90049&type=do). Also
+[[p.6]](https://ris.kaiserslautern.de/buergerinfo/getfile.asp?id=90049&type=do). Also
 nicht die Maßnahmen der Stadt, sondern der Fortschritt bei der
 Energieversorgung ist die Hauptursache für die Emissionsreduktion in
 Kaiserslautern.
