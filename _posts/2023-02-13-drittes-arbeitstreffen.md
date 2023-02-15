@@ -16,7 +16,7 @@ Die Verkehrgruppe hat sich mit der Radbeauftragte Kaiserslauterns Julia Bingeser
 
 ## Bericht Gruppe Öffentlichkeitsarbeit
 
-Großes hat die Gruppe Öffgentlichkeitsarbeit vor. Am 9.9.2023 soll es einen Kimatag geben. Die Planung dafür stehen noch am Anfang, aber es ist ja auch noch einige Zeit bis dahin.
+Großes hat die Gruppe Öffentlichkeitsarbeit vor. Am 9.9.2023 soll es einen Kimatag geben. Die Planung dafür stehen noch am Anfang, aber es ist ja auch noch einige Zeit bis dahin.
 
 Am 25./26.3.2023 findet der Frühlingsmarkt der Stadt Kaiserslautern "Lautern blüht auf" statt. Wir werden uns sicher beteiligen. Dazu suchen wir Helfer und Ideen für Mitbringsel - indealerweise klimaschonend und umweltfreundlich.
 
