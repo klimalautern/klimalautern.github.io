@@ -18,7 +18,7 @@ Die Verkehrgruppe hat sich mit der Radbeauftragten Kaiserslauterns Julia Bingese
 
 Großes hat die Gruppe Öffentlichkeitsarbeit vor. Am 9.9.2023 soll es einen Kimatag geben. Die Planung dafür steht noch am Anfang, aber es ist ja auch noch einige Zeit bis dahin.
 
-Am 25./26.3.2023 findet der Frühlingsmarkt der Stadt Kaiserslautern "Lautern blüht auf" statt. Wir werden uns sicher beteiligen. Dazu suchen wir Helfer und Ideen für Mitbringsel - indealerweise klimaschonend und umweltfreundlich.
+Am 25./26.3.2023 findet der Frühlingsmarkt der Stadt Kaiserslautern "Lautern blüht auf" statt. Wir werden uns sicher beteiligen. Dazu suchen wir Helfer und Ideen für Mitbringsel - idealerweise klimaschonend und umweltfreundlich.
 
 Da dies ein eher großer Event wird, bildet die Vorbereitung darauf auch den Fokus der aktuellen Tätigkeiten. Die nächsten Termine sind:
 
