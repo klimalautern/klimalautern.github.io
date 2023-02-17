@@ -4,15 +4,20 @@ type: website
 description: Stadt und Landkreis Kaiserslautern klimaneutral!
 ---
 
-## Nächste Treffen: 13.2. 18:00 an der Uni
+## Nächste Treffen: 17.4. und 6.3. 18:00 an der Uni
 
-Wir werden uns am 13.2. um 18:00 an der TU
+Wir werden uns am 17.4. um 18:00 an der TU
 wieder treffen. Die Arbeitsgruppen werden berichten, was sie seit dem
 letzten Treffen erreicht haben und wir werden weitere Schritte
 diskutieren. Kommt gerne dazu - wir freuen uns! 
 
-Wir treffen uns an der TU, Gebäude 46, Raum 225 - siehe
-[Lageplan](/images/2023-01-09-LageplanTreffen.jpeg).
+<!-- Wir treffen uns an der TU, Gebäude 46, Raum 225 - siehe -->
+<!-- [Lageplan](/images/2023-01-09-LageplanTreffen.jpeg). -->
+
+Und am 6.3. treffen wir uns, um uns auf den Frühlingsmarkt der Stadt
+Kaiserslautern “Lautern blüht auf” am 25./26.3.2023 vorzubereiten,
+Details finden sich im [Bericht vom letzten
+Arbeitstreffen](/2023/02/13/drittes-arbeitstreffen.html).
 
 ## Was Du jetzt tun kannst
 
