@@ -11,8 +11,8 @@ wieder treffen. Die Arbeitsgruppen werden berichten, was sie seit dem
 letzten Treffen erreicht haben und wir werden weitere Schritte
 diskutieren. Kommt gerne dazu - wir freuen uns! 
 
-<!-- Wir treffen uns an der TU, Gebäude 46, Raum 225 - siehe -->
-<!-- [Lageplan](/images/2023-01-09-LageplanTreffen.jpeg). -->
+Wir treffen uns an der TU, Gebäude 46, Raum 225 - siehe
+[Lageplan](/images/2023-01-09-LageplanTreffen.jpeg).
 
 Und am 6.3. treffen wir uns, um uns auf den Frühlingsmarkt der Stadt
 Kaiserslautern “Lautern blüht auf” am 25./26.3.2023 vorzubereiten,
