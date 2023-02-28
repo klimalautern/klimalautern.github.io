@@ -12,7 +12,7 @@ Du kannst mit uns gerne per [EMail](mailto:info@klimalautern.de) Kontakt aufnehm
 
 * [Twitter](https://twitter.com/KlimaLautern)
 * <a rel="me"
-href="https://climatejustice.social/@KlimaLautern">Mastodon</a>,
+href="https://climatejustice.social/@KlimaLautern">Mastodon</a>
 * [Facebook](https://www.facebook.com/KlimaLautern)
 * [Instagram](https://www.instagram.com/klimalautern/)
 
