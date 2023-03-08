@@ -14,10 +14,11 @@ diskutieren. Kommt gerne dazu - wir freuen uns!
 Wir treffen uns an der TU, Gebäude 46, Raum 225 - siehe
 [Lageplan](/images/2023-01-09-LageplanTreffen.jpeg).
 
-## Was Du jetzt tun kannst
+## Lautern blüht auf
 
-Unterschreibe unseren [Appell](/appell-klimapakt.html) für den
-Beitritt Kaiserslauterns zum Kommunalen Klimapakt!
+Am 25./26.3.2023 findet der Frühlingsmarkt der Stadt Kaiserslautern ""
+statt. Wir werden auf der “Meile der Nachhaltigkeit” auf dem
+Schillerplatz einen Stand haben. Kommt gerne vorbei und sagt hallo!
 
 ## Über uns
 
