@@ -16,10 +16,7 @@ Wir treffen uns an der TU, Gebäude 46, Raum 225 - siehe
 
 ## Lautern blüht auf
 
-Am 25./26.3.2023 findet der Frühlingsmarkt der Stadt Kaiserslautern
-"Lautern blüht auf"
-statt. Wir werden auf der “Meile der Nachhaltigkeit” auf dem
-Schillerplatz einen Stand haben. Kommt gerne vorbei und sagt hallo!
+Wir waren beim Frühlingsfest "Lautern blüht auf" - hier ist der [Bericht](/2023/03/25/lautern-blueht-auf.html).
 
 ## Über uns
 
