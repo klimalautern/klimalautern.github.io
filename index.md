@@ -4,7 +4,7 @@ type: website
 description: Stadt und Landkreis Kaiserslautern klimaneutral!
 ---
 
-## Nächste Treffen: 17.4. 18:00 an der Uni
+<!-- ## Nächste Treffen: 17.4. 18:00 an der Uni
 
 Wir werden uns am 17.4. um 18:00 an der TU
 wieder treffen. Die Arbeitsgruppen werden berichten, was sie seit dem
@@ -13,6 +13,7 @@ diskutieren. Kommt gerne dazu - wir freuen uns!
 
 Wir treffen uns an der TU, Gebäude 46, Raum 225 - siehe
 [Lageplan](/images/2023-01-09-LageplanTreffen.jpeg).
+-->
 
 ## Lautern blüht auf
 
