@@ -4,19 +4,46 @@ type: website
 description: Stadt und Landkreis Kaiserslautern klimaneutral!
 ---
 
-## Nächste Treffen: 15.5. 18:00 an der Uni
+# Termine
 
-Wir werden uns am 15.5. um 18:00 an der TU
+### 22.5.2023 Fahrradtour mit Critical Mass anschließend Klima-Stammtisch 
+
+[Critical Mass](https://criticalmass.in/kaiserslautern) (engl. für
+„kritische Masse“, CM) ist eine weltweite Bewegung, bei der sich
+mehrere nicht motorisierte Verkehrsteilnehmer (hauptsächlich
+Radfahrer) scheinbar zufällig und unorganisiert treffen, um mit
+gemeinsamen und unhierarchischen Fahrten durch Innenstädte, ihrer
+bloßen Menge und dem konzentrierten Auftreten von Fahrrädern auf den
+Radverkehr als Form des Individualverkehrs aufmerksam zu machen
+([Wikipedia](https://de.wikipedia.org/wiki/Critical_Mass_(Aktionsform))).
+
+Treffpunkt zu Critical Mass ist um 18:00 am Stiftsplatz,
+
+Beim Klimastammtisch kann man einfach vorbeikommen, um nett und
+ungezwungen miteinander zu reden. Treffpunkt ist ab 19:00 im
+Glockencafe, Glockenstrasse 43.
+
+### 12.6.2023 KlimaLautern-Arbeitstreffen
+
+Wir werden uns am 12.6. um 18:00 an der TU
 wieder treffen. Die Arbeitsgruppen werden berichten, was sie seit dem
 letzten Treffen erreicht haben und wir werden weitere Schritte
 diskutieren. Kommt gerne dazu - wir freuen uns! 
 
-Wir treffen uns an der TU, Gebäude 46, Raum 380 - siehe
-[Lageplan](/images/2023-05-15-LageplanTreffen.png).
+Wir treffen uns an der TU, Gebäude 44, Raum 380 - siehe
+[Lageplan](/images/2023-05-15-LageplanTreffen.png). Dazu durch den
+markierten Eingang von Gebäude 44/46 gehen, scharf rechts
+abbiegen. Dort ist das Treppenhaus. Der Raum ist im 1. Stock.
 
-## Lautern blüht auf
+### 9.9.2023 Klimatag in der Innenstadt in Kaiserslautern
 
-Wir waren beim Frühlingsfest "Lautern blüht auf" - hier ist der [Bericht](/2023/03/25/lautern-blueht-auf.html).
+Wir werden mit anderen Klima-Initiativen zusammen Aktionen in
+Kaiserslautern durchführen.
+
+### 16.9.2023 World Cleanup Day
+
+Beim [World Cleanup Day](https://worldcleanupday.de/) sammeln wir Müll
+und machen die Welt so etwas sauberer.
 
 ## Über uns
 
