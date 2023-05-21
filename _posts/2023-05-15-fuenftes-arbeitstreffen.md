@@ -8,8 +8,7 @@ tags: Veranstaltung
 
 # Das fünfte Arbeitstreffen
 
-Nachdem schließlich alle zum richtigen Raum gelotst werden konnten,
-fand Am 15.5. fand das fünfte Arbeitstreffen von KlimaLautern mit 19
+Am 15.5. fand das fünfte Arbeitstreffen von KlimaLautern mit 19
 Anwesenden statt - diesmal in einem anderen Raum an der Uni.
 
 Wir freuen uns über den Besuch einer Vertreterin des „Orchester des
