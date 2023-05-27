@@ -6,23 +6,6 @@ description: Stadt und Landkreis Kaiserslautern klimaneutral!
 
 # Termine
 
-### 22.5.2023 Fahrradtour mit Critical Mass anschließend Klima-Stammtisch 
-
-[Critical Mass](https://criticalmass.in/kaiserslautern) (engl. für
-„kritische Masse“, CM) ist eine weltweite Bewegung, bei der sich
-mehrere nicht motorisierte Verkehrsteilnehmer (hauptsächlich
-Radfahrer) scheinbar zufällig und unorganisiert treffen, um mit
-gemeinsamen und unhierarchischen Fahrten durch Innenstädte, ihrer
-bloßen Menge und dem konzentrierten Auftreten von Fahrrädern auf den
-Radverkehr als Form des Individualverkehrs aufmerksam zu machen
-([Wikipedia](https://de.wikipedia.org/wiki/Critical_Mass_(Aktionsform))).
-
-Treffpunkt zu Critical Mass ist um 18:00 am Stiftsplatz,
-
-Beim Klimastammtisch kann man einfach vorbeikommen, um nett und
-ungezwungen miteinander zu reden. Treffpunkt ist ab 19:00 im
-Glockencafe, Glockenstrasse 43.
-
 ### 12.6.2023 KlimaLautern-Arbeitstreffen
 
 Wir werden uns am 12.6. um 18:00 an der TU
