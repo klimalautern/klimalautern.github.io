@@ -13,7 +13,7 @@ ausdrücklich widersprochen. Ich behalte mir ausdrücklich rechtliche
 Schritte im Falle der unverlangten Zusendung von Werbeinformationen
 etwa durch Spam-Emails oder Postsendungen vor.
 
-Sämtliche Inhalte von ewolff.com unterliegen dem deutschen
+Sämtliche Inhalte von klimalautern.de unterliegen dem deutschen
 Urheberrecht. Vervielfältigung, Veränderung, Verbreitung und jegliche
 Verwertung außerhalb des geltenden Urheberrechts bedürfen meiner
 schriftlichen Zustimmung. Die Inhalte unterliegen der
