@@ -20,13 +20,17 @@ abbiegen. Dort ist das Treppenhaus. Der Raum ist im 1. Stock.
 
 ### 9.9.2023 Klimatag in der Innenstadt in Kaiserslautern
 
-Wir werden mit anderen Klima-Initiativen zusammen Aktionen in
-Kaiserslautern durchführen.
+Wir werden mit anderen Klima-Initiativen zusammen Aktionen in der
+Innenstadt von Kaiserslautern durchführen. Zur weiteren Organisation
+haben wir vier Ressorts (Stände, Aktionen, Vorträge/Vorführungen,
+Werbung) gebildet. Es wurden bereits einige vielversprechende Ideen
+gesammelt, aber wir freuen uns jederzeit über weitere Unterstützung.
 
 ### 16.9.2023 World Cleanup Day
 
 Beim [World Cleanup Day](https://worldcleanupday.de/) sammeln wir Müll
-und machen die Welt so etwas sauberer.
+und machen die Welt so etwas besser und sauberer. Auch hier suchen wir
+noch engagierte Mitstreiter:innen.
 
 ## Über uns
 
