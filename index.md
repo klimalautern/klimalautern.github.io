@@ -6,9 +6,9 @@ description: Stadt und Landkreis Kaiserslautern klimaneutral!
 
 # Termine
 
-### 12.6.2023 KlimaLautern-Arbeitstreffen
+### 10.7.2023 KlimaLautern-Arbeitstreffen
 
-Wir werden uns am 12.6. um 18:00 an der TU
+Wir werden uns am 10.7. um 18:00 an der TU
 wieder treffen. Die Arbeitsgruppen werden berichten, was sie seit dem
 letzten Treffen erreicht haben und wir werden weitere Schritte
 diskutieren. Kommt gerne dazu - wir freuen uns! 
