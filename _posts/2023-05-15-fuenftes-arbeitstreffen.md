@@ -2,7 +2,7 @@
 title: Fünftes Arbeitstreffen
 layout: post
 description: Fünftes Arbeitstreffen
-thumbnail: /images/2023-04-17-viertes-arbeitstreffen.jpg
+thumbnail: images/2023-04-17-viertes-arbeitstreffen.jpg
 tags: Veranstaltung
 ---
 

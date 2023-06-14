@@ -2,7 +2,7 @@
 title: Das zweite Arbeitstreffen
 layout: post
 description: Zweites Arbeitstreffen
-thumbnail: /images/2023-01-16-zweites-arbeitstreffen.jpg
+thumbnail: images/2023-01-16-zweites-arbeitstreffen.jpg
 tags: Veranstaltung
 ---
 

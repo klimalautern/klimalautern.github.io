@@ -2,7 +2,7 @@
 title: Unser Erstes Arbeitstreffen
 layout: post
 description: Die inhaltliche Arbeit beginnt mit dem ersten Arbeitstreffen
-thumbnail: /images/2022-12-01-erstes-arbeitstreffen.jpg
+thumbnail: images/2022-12-01-erstes-arbeitstreffen.jpg
 tags: Veranstaltung
 ---
 

@@ -2,7 +2,7 @@
 title: Kaiserslautern klimaneutral 2035?
 layout: post
 description: Kaiserslautern klimaneutral - geht 2035? Der Bericht des ifeu gibt Antworten.
-thumbnail: /images/2023-01-22-kaiserslautern-klimaneutral-2035.png
+thumbnail: images/2023-01-22-kaiserslautern-klimaneutral-2035.png
 tags: Meinung
 ---
 

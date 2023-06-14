@@ -2,7 +2,7 @@
 title: Drittes Arbeitstreffen
 layout: post
 description: Drittes Arbeitstreffen
-thumbnail: /images/2023-01-16-zweites-arbeitstreffen.jpg
+thumbnail: images/2023-01-16-zweites-arbeitstreffen.jpg
 tags: Veranstaltung
 ---
 

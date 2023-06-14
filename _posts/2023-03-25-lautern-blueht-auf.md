@@ -2,7 +2,7 @@
 title: Lautern blüht auf
 layout: post
 description: Wir waren beim Frühlingsfest "Lautern blüht auf"
-thumbnail: /images/2023-03-23-lautern-blueht-auf.jpg
+thumbnail: images/2023-03-23-lautern-blueht-auf.jpg
 tags: Veranstaltung
 ---
 

@@ -2,7 +2,7 @@
 title: Sechstes Arbeitstreffen
 layout: post
 description: Sechstes Arbeitstreffen
-thumbnail: /images/2023-06-12-sechstes-arbeitstreffen.jpg
+thumbnail: images/2023-06-12-sechstes-arbeitstreffen.jpg
 tags: Veranstaltung
 ---
 
