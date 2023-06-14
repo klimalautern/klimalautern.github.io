@@ -11,6 +11,10 @@ tags: Veranstaltung
 Am 12.6. fand das sechste Arbeitstreffen von KlimaLautern mit 18
 Anwesenden statt.
 
+![Impression vom sechsten Arbeitstreffen](/images/2023-06-12-sechstes-arbeitstreffen.jpg)
+*Impression vom sechsten Arbeitstreffen*
+
+
 ## Bericht Arbeitsgruppe Verkehr
 
 Die Gruppe hat die ersten Kapitel des „Mobilitätsplan Klima+ 2030“
