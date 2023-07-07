@@ -13,8 +13,8 @@ wieder treffen. Die Arbeitsgruppen werden berichten, was sie seit dem
 letzten Treffen erreicht haben und wir werden weitere Schritte
 diskutieren. Kommt gerne dazu - wir freuen uns! 
 
-Wir treffen uns an der TU, Gebäude 44, Raum 380 - siehe
-[Lageplan](/images/2023-05-15-LageplanTreffen.png). Dazu durch den
+Wir treffen uns an der TU, Gebäude 46, Raum 225 - siehe
+[Lageplan](/images/2023-01-09-LageplanTreffen.jpeg). Dazu durch den
 markierten Eingang von Gebäude 44/46 gehen, scharf rechts
 abbiegen. Dort ist das Treppenhaus. Der Raum ist im 1. Stock.
 
