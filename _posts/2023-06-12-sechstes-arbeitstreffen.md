@@ -47,7 +47,8 @@ Glückwunsch und viel Erfolg!
 
 ## Terminankündigungen
 
-* 10.7.2023 KlimaLautern-Arbeitstreffen an der RPTU in Raum 44-380
+* 10.7.2023 KlimaLautern-Arbeitstreffen an der RPTU in Raum 225,
+  Gebäude 46, siehe [Lageplan](https://klimalautern.de/images/2023-01-09-LageplanTreffen.jpeg)
 * 9.9.2023 Lautrer Klimatag in der Innenstadt in Kaiserslautern
 
 ## Wie mitmachen?
