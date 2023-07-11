@@ -6,18 +6,6 @@ description: Stadt und Landkreis Kaiserslautern klimaneutral!
 
 # Termine
 
-### 10.7.2023 KlimaLautern-Arbeitstreffen
-
-Wir werden uns am 10.7. um 18:00 an der TU
-wieder treffen. Die Arbeitsgruppen werden berichten, was sie seit dem
-letzten Treffen erreicht haben und wir werden weitere Schritte
-diskutieren. Kommt gerne dazu - wir freuen uns! 
-
-Wir treffen uns an der TU, Gebäude 46, Raum 225 - siehe
-[Lageplan](/images/2023-01-09-LageplanTreffen.jpeg). Dazu durch den
-markierten Eingang von Gebäude 44/46 gehen, scharf rechts
-abbiegen. Dort ist das Treppenhaus. Der Raum ist im 1. Stock.
-
 ### 12.7. Critical Mass & Klimastammtisch
 
 [Critical Mass](https://criticalmass.in/kaiserslautern) (engl. für
@@ -35,6 +23,12 @@ Beim Klimastammtisch kann man einfach vorbeikommen, um nett und
 ungezwungen miteinander zu reden. Treffpunkt ist ab 19:00 im
 Café am Markt, Stiftsplatz 2.
 
+### 14.8.2023 KlimaLautern-Arbeitstreffen
+
+Wir werden uns am 14.8. um 18:00 
+wieder treffen. Die Arbeitsgruppen werden berichten, was sie seit dem
+letzten Treffen erreicht haben und wir werden weitere Schritte
+diskutieren. Kommt gerne dazu - wir freuen uns! 
 
 ### 9.9.2023 Klimatag in der Innenstadt in Kaiserslautern
 
