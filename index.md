@@ -83,8 +83,8 @@ Wir arbeiten in Gruppen, die sich um diese Themen kümmern:
 Der Steuerkreis koordiniert und trifft zwischen den Treffen
 kurzfristig Entscheidungen. Mitglieder (alphabetisch):
 
-* Chris
 * Eberhard
+* Lasse
 * Nora
 * Reena
 * Sven
