@@ -6,7 +6,14 @@ description: Stadt und Landkreis Kaiserslautern klimaneutral!
 
 # Termine
 
-### 12.7. Critical Mass & Klimastammtisch
+### 14.8.2023 KlimaLautern-Arbeitstreffen
+
+Wir werden uns am 14.8. um 18:00 
+wieder treffen. Die Arbeitsgruppen werden berichten, was sie seit dem
+letzten Treffen erreicht haben und wir werden weitere Schritte
+diskutieren. Kommt gerne dazu - wir freuen uns! 
+
+### 17.8. Critical Mass & Klimastammtisch
 
 [Critical Mass](https://criticalmass.in/kaiserslautern) (engl. für
 „kritische Masse“, CM) ist eine weltweite Bewegung, bei der sich
@@ -20,15 +27,9 @@ Radverkehr als Form des Individualverkehrs aufmerksam zu machen
 Treffpunkt zu Critical Mass ist um 18:00 am Stiftsplatz,
 
 Beim Klimastammtisch kann man einfach vorbeikommen, um nett und
-ungezwungen miteinander zu reden. Treffpunkt ist ab 19:00 im
-Café am Markt, Stiftsplatz 2.
+ungezwungen miteinander zu reden. Treffpunkt ist ab 19:00 bei
+Markt 28, Marktstrasse 28.
 
-### 14.8.2023 KlimaLautern-Arbeitstreffen
-
-Wir werden uns am 14.8. um 18:00 
-wieder treffen. Die Arbeitsgruppen werden berichten, was sie seit dem
-letzten Treffen erreicht haben und wir werden weitere Schritte
-diskutieren. Kommt gerne dazu - wir freuen uns! 
 
 ### 9.9.2023 Klimatag in der Innenstadt in Kaiserslautern
 
