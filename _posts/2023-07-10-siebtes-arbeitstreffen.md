@@ -43,10 +43,10 @@ Folgetreffen sollen 2-3 Mal im Jahr stattfinden.
 Die Gruppe hat drei Ziele definiert, die weiterverfolgt werden sollen:
 		
 1. **Vergleich** der Klimamaßnahmen von Kaiserslautern mit Maßnahmen von
-   drei anderen Städten.
+   drei anderen Städten
 2. **Evaluation von Maßnahmen** bzw. Programmen für die finanzielle
 Förderung von Klimaprojekten, z. B. KIPKI, nationale
-Klimaschutz-Initiative.
+Klimaschutz-Initiative
 3. **Monitoring:** Der Stand der Klimamaßnahmen der Stadt wird aktuell
    in PDFs dokumentiert. Diese sind schwierig zu lesen und
    auszuwerten. Ziel wäre eine Website, über die Bürger den
