@@ -8,8 +8,11 @@ description: Stadt und Landkreis Kaiserslautern klimaneutral!
 
 ### 14.8.2023 KlimaLautern-Arbeitstreffen
 
-Wir werden uns am 14.8. um 18:00 
-wieder treffen. Die Arbeitsgruppen werden berichten, was sie seit dem
+Wir werden uns am 14.8. um 18:00 bei der DAA (Deutsche Angestellten
+Akademie) in der Richard-Wagner-Strasse 1
+wieder treffen, siehe
+[Anfahrtsskizze](https://daa-kaiserslautern.de/fileadmin/Standorte/daa-kaiserslautern/Kaiserlautern_Richard-Wagner-Strasse.pdf).
+Die Arbeitsgruppen werden berichten, was sie seit dem
 letzten Treffen erreicht haben und wir werden weitere Schritte
 diskutieren. Kommt gerne dazu - wir freuen uns! 
 
