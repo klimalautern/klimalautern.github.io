@@ -6,16 +6,6 @@ description: Stadt und Landkreis Kaiserslautern klimaneutral!
 
 # Termine
 
-### 14.8.2023 KlimaLautern-Arbeitstreffen
-
-Wir werden uns am 14.8. um 18:00 bei der DAA (Deutsche Angestellten
-Akademie) in der Richard-Wagner-Strasse 1
-wieder treffen, siehe
-[Anfahrtsskizze](https://daa-kaiserslautern.de/fileadmin/Standorte/daa-kaiserslautern/Kaiserlautern_Richard-Wagner-Strasse.pdf).
-Die Arbeitsgruppen werden berichten, was sie seit dem
-letzten Treffen erreicht haben und wir werden weitere Schritte
-diskutieren. Kommt gerne dazu - wir freuen uns! 
-
 ### 17.8. Critical Mass & Klimastammtisch
 
 [Critical Mass](https://criticalmass.in/kaiserslautern) (engl. für
@@ -33,8 +23,11 @@ Beim Klimastammtisch kann man einfach vorbeikommen, um nett und
 ungezwungen miteinander zu reden. Treffpunkt ist ab 19:00 bei
 Markt 28, Marktstrasse 28.
 
+### 25.8.  Fledermausnachta
 
-### 9.9.2023 Klimatag in der Innenstadt in Kaiserslautern
+Exkursion des NABU am Hammerwoog beim Hotel Blechhammer ab 19:25
+
+### 9.9. Klimatag in der Innenstadt in Kaiserslautern
 
 Wir werden mit anderen Klima-Initiativen zusammen Aktionen in der
 Innenstadt von Kaiserslautern durchführen. Zur weiteren Organisation
@@ -42,11 +35,29 @@ haben wir vier Ressorts (Stände, Aktionen, Vorträge/Vorführungen,
 Werbung) gebildet. Es wurden bereits einige vielversprechende Ideen
 gesammelt, aber wir freuen uns jederzeit über weitere Unterstützung.
 
-### 16.9.2023 World Cleanup Day
+### 15.09. Parking Day
+
+Aktionstag, an dem darauf aufmerksam gemacht wird, dass der Platz, der
+zum Parken für Autos verwendet wird, sinnvoller genutzt werden
+kann. Das Eselsohr ist federführend bei der Planung.
+
+### 16.9. KlimaLautern-Arbeitstreffen
+
+Wir werden uns am 16.9. um 18:00 bei der DAA (Deutsche Angestellten
+Akademie) in der Richard-Wagner-Strasse 1
+wieder treffen, siehe
+[Anfahrtsskizze](https://daa-kaiserslautern.de/fileadmin/Standorte/daa-kaiserslautern/Kaiserlautern_Richard-Wagner-Strasse.pdf).
+Die Arbeitsgruppen werden berichten, was sie seit dem
+letzten Treffen erreicht haben und wir werden weitere Schritte
+diskutieren. Kommt gerne dazu - wir freuen uns! 
+
+### 16.9. World Cleanup Day
 
 Beim [World Cleanup Day](https://worldcleanupday.de/) sammeln wir Müll
 und machen die Welt so etwas besser und sauberer. Auch hier suchen wir
 noch engagierte Mitstreiter:innen.
+
+### 16.9. Wiesentag des BUND
 
 ## Über uns
 
