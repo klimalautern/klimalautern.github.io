@@ -12,6 +12,8 @@ Am 14.08.2023 fand das achte Arbeitstreffen, dieses Mal in den Räumlichkeiten
 der Deutschen Angestellten Akademie (DAA) in der Richard-Wagner-Straße 1, Etage 3 statt.
 Nach der Begrüßung der 18 Teilnehmenden folgten die **Berichte aus den Arbeitsgruppen**.
 
+## Berichte aus den Arbeitsgruppen
+
 ### Verkehr
 Die Gruppe hat die Stadtverwaltung (Rolf Jäger (Klimaschutzmanager) und 
 Julia Bingeser (Radverkehrsbeauftragte)) angeschrieben, um sich über laufende 
@@ -25,13 +27,9 @@ eine Umfrage zu der Gestaltung des Theatervorplatzes geben.
 Nach dem Klimatag wird die Gruppe besprechen, auf welche Themen sie sich in der kommenden Zeit 
 konzentrieren möchte, beispielsweise Baumscheiben/Stadtbegrünung.
 
-
-
-
 ### Öffentlichkeitsarbeit und Bildung
 Der Fokus liegt weiterhin auf dem Klimatag. Aktuell ist das Hauptziel, KlimaLautern bekanntzumachen, 
 sich einen Namen zu machen und Aufmerksamkeit zu generieren.
-
 
 ### Masterplan
 LocalZero entwickelt ein [Monitoring-Instrument](monitoring.localzero.net). Dieses soll ab Anfang 
@@ -65,7 +63,7 @@ wünschenswerte Zukünfte greifbar zu machen. Es ist wichtig, dass sich Menschen
 Klimabewegung identifizieren können. Um dies zu erreichen, sollten Klimathemen positiv besetzt sein. 
 Der Verein bietet die Entwicklung von Zukunftsbildern (Zukunftsvisionen), d. h., wie eine Straße/Stadt 
 aussehen könnte, an. Es wäre toll, wenn es so etwas auch für Kaiserslautern gäbe. Nach dem Klimatag soll 
-dies weiterverfolgt und Kontakt zur Hochschule (Studiengang Virtual Design) aufgenommen werden
+dies weiterverfolgt und Kontakt zur Hochschule (Studiengang Virtual Design) aufgenommen werden.
 
 ## 1. Lautrer Klimatag am 09.09.
 Nur noch ein Monat bis zum 1. Lautrer Klimatag. Es gibt bereits zwölf feste Zusagen. Darunter unter anderem der ADFC, 
