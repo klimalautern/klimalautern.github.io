@@ -1,8 +1,10 @@
-![grafik](https://github.com/klimalautern/klimalautern.github.io/assets/142420368/a58cbee5-46bb-434c-9554-5bbcecbd53be)---
+---
 title: KlimaLautern - 1. Lautrer Klimatag am 9.9.2023
 type: website
 description: Infos zum Klimatag am 9.9.2023
 ---
+
+![klimatag2](https://github.com/lukaslautern/klimalautern.github.io/assets/142420368/976a2f10-0e9b-4deb-b345-729f83651945)
 
 Wir laden euch ein zum 1. Lautrer Klimatag am Samstag, den 9.9.2023! Gemeinsam mit anderen Klima- und Umweltinitiativen wird es Infostände und Mitmach-Aktionen auf dem Schillerplatz in Kaiserslautern geben.
 
