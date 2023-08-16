@@ -4,7 +4,7 @@ type: website
 description: Infos zum Klimatag am 9.9.2023
 ---
 
-Am Klimatag werden Wir werden mit anderen Klima-Initiativen zusammen
+Am Klimatag werden wir mit anderen Klima-Initiativen zusammen
 Aktionen in der Innenstadt von Kaiserslautern durchführen.
 
 | **Wer ist dabei?** | **Wer ist das?** | **Was wird gemacht?** |
