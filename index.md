@@ -23,7 +23,7 @@ Beim Klimastammtisch kann man einfach vorbeikommen, um nett und
 ungezwungen miteinander zu reden. Treffpunkt ist ab 19:00 bei
 Markt 28, Marktstrasse 28.
 
-### 25.8.  Fledermausnachta
+### 25.8.  Fledermausnacht
 
 Exkursion des NABU am Hammerwoog beim Hotel Blechhammer ab 19:25
 
