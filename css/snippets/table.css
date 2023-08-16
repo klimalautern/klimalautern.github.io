@@ -1,0 +1,7 @@
+td img {
+    max-width: 100%;
+    width: 2000px;
+    height: auto;
+    display: block; /* Ensures proper spacing around the image */
+    margin: 0 auto; /* Centers the image horizontally within the cell */
+}
