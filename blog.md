@@ -1,7 +1,7 @@
 ---
-title: KlimaLautern - Klimaentscheid Kaiserslautern - Blog
+title: KlimaLautern - Blog
 type: website
-description: Blog von KlimaLautern - Klimaentscheid Kaiserslautern
+description: Blog von KlimaLautern
 ---
 
 <div class="collection-items">

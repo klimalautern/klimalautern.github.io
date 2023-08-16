@@ -1,5 +1,5 @@
 ---
-title: KlimaLautern - Klimaentscheid Kaiserslautern - Kontakt & Social Media
+title: KlimaLautern - Kontakt & Social Media
 type: website
 description: Kontakt & Social Media für KlimaLautern
 ---

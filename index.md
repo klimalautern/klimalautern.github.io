@@ -1,5 +1,5 @@
 ---
-title: KlimaLautern - Klimaentscheid Kaiserslautern
+title: KlimaLautern
 type: website
 description: Stadt und Landkreis Kaiserslautern klimaneutral!
 ---
@@ -124,7 +124,7 @@ spätestens 2035.
 
 [GermanZero](https://germanzero.de/) hat das Ziel, Deutschland bis
 2035 klimaneutral zu machen. Dafür unterstützen sie
-Klimaentscheid-Teams wie den Klimaentscheid Kaiserslautern.
+Teams wie KlimaLautern.
 
 <a href="https://localzero.net/">
 <img 

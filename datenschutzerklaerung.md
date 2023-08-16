@@ -1,8 +1,8 @@
 ---
-title: Klimaentscheid Kaiserslautern Datenschutzerklärung
+title: KlimaLautern Datenschutzerklärung
 ---
 
-Klimaentscheid Kaiserslautern nimmt den Schutz Ihrer persönlichen Daten sehr ernst. Wir
+KlimaLautern nimmt den Schutz Ihrer persönlichen Daten sehr ernst. Wir
 selbst erfassen oder speichern keinerlei persönliche Daten.
 
 Allerdings werden einerseits diese Seiten auf Servern Dritter
