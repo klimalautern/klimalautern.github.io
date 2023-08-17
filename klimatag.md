@@ -4,10 +4,11 @@ type: website
 description: Infos zum Klimatag am 9.9.2023
 ---
 
-![Klimatag-Logo_ohne-Hintergrund_web](https://github.com/klimalautern/klimalautern.github.io/assets/142420368/6053b428-1e97-4766-aed1-b7656263603c)
+![Klimatag-Logo_ohne-Hintergrund_web](https://github.com/klimalautern/klimalautern.github.io/assets/142420368/8c40a9cb-9be7-4d1b-a33c-64ac4d2a02a6)
 
 
-Wir laden euch ein zum 1. Lautrer Klimatag am Samstag, den 9.9.2023! Gemeinsam mit anderen Klima- und Umweltinitiativen wird es Infostände und Mitmach-Aktionen auf dem Schillerplatz in Kaiserslautern geben.
+
+Wir laden euch ein zum 1. Lautrer Klimatag am Samstag, den 9.9.2023 von 10 bis 16 Uhr! Gemeinsam mit anderen Klima- und Umweltinitiativen wird es Infostände und Mitmach-Aktionen auf dem Schillerplatz in Kaiserslautern geben.
 
 | **Wer ist dabei?** | **Wer ist das?** | **Was wird gemacht?** |
 | ![KlimaLautern Logo](/klimatag/KlimaLautern.png) | Bürgerinitiative für ein klimaneutrales und lebenswertes Kaiserslautern. | Ideen-Karte für besseren Radverkehr in Kaiserslautern und weitere Mitmach-Aktionen |
@@ -17,7 +18,7 @@ Wir laden euch ein zum 1. Lautrer Klimatag am Samstag, den 9.9.2023! Gemeinsam m
 | ![adfc Logo](/klimatag/adfc.png) | Verkehrsclub zur Förderung des Fahrradverkehrs und für mehr Sicherheit und Umweltschutz im Verkehr. | Vorstellung des Verein ADFC, Aktion: Fahrradcodierung zum Diebstahlschutz |
 | ![KL Bildung und Ehrenamt Logo](/klimatag/KLBildungUndEhrenamt.png) | Bildungsmanagement und Referat Umweltschutz (Klimamanagement) der Stadt Kaiserslautern.| Infos zu den Aktivitäten der Stadt Kaiserslautern, Mal- und Bastelaktion für Kinder und Jugendliche mit dem Bildungsmanagement: „Formuliere Dein Klimaziel in einem Demoplakat“ |
 | ![Eselsohr Logo](/klimatag/Eselsohr.png) | Soziale und unkommerzielle Begegnungsstätte. Gegen Rassismus und Sexismus und für das Anpacken ökologischer und sozialer Probleme. | Gemütliche Leseecke mit Material zu und von verschiedenen Klimagerechtigkeitsbewegungen, dazu passend Banner- und Plakate- Malen für den Klimastreik am 15.09. |
-| ![Forstamt Ottersberg Logo](/klimatag/ForstamtOttersberg.png) | Zuständig für Waldinformation, Umweltbildung und Walderleben in weiten Teilen des Landkreises Kaiserslautern | Mobile Erlebnisschule Wald und Wild |
+| ![Forstamt Ottersberg Logo](/klimatag/ForstamtOttersberg.png) | Zuständig für Waldinformation, Umweltbildung und Walderleben in weiten Teilen des Landkreises Kaiserslautern | Mobile Erlebnisschule Wald und Wild (Artenvielfalt) |
 | ![NABU Logo](/klimatag/NABU.png) | Mit ca. 900.000 Mitgliedern und Förderern der größte und älteste Verband für Umwelt- und Naturschutz in Deutschland. | Informationsmaterial und Wildblumensamen-Theke |
 | ![Stadtbild Pflege Logo](/klimatag/StadtbildPflege.png) | Kommunaler Dienstleister in den Bereichen Abfallwirtschaft, Straßenreinigung, Grünpflege | Ausstellung von bemalten Bioabfalltonnen, Magnet-Sortierspiel zur Mülltrennung, Informationen zum Thema Bioabfall/Biotonne |
 | ![Wasser Infrastruktur Ressourcen Logo](/klimatag/WasserInfrastrukturRessourcen.png) | Institut WIR (Wasser Infrastruktur Ressourcen) der RPTU Kaiserslautern, Fachbereich Bauingenieurwesen | Versickerungsexperiment zum Umgang mit Regenwasser, Poster zum Thema Wasserstoff |
