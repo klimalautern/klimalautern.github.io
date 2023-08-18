@@ -37,7 +37,7 @@ gesammelt, aber wir freuen uns jederzeit über weitere Unterstützung.
 
 ### 11.9. KlimaLautern-Arbeitstreffen
 
-Wir werden uns am 16.9. um 18:00 bei der DAA (Deutsche Angestellten
+Wir werden uns am 11.9. um 18:00 bei der DAA (Deutsche Angestellten
 Akademie) in der Richard-Wagner-Strasse 1
 wieder treffen, siehe
 [Anfahrtsskizze](https://daa-kaiserslautern.de/fileadmin/Standorte/daa-kaiserslautern/Kaiserlautern_Richard-Wagner-Strasse.pdf).
