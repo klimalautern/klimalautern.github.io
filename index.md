@@ -35,13 +35,7 @@ haben wir vier Ressorts (Stände, Aktionen, Vorträge/Vorführungen,
 Werbung) gebildet. Es wurden bereits einige vielversprechende Ideen
 gesammelt, aber wir freuen uns jederzeit über weitere Unterstützung.
 
-### 15.09. Parking Day
-
-Aktionstag, an dem darauf aufmerksam gemacht wird, dass der Platz, der
-zum Parken für Autos verwendet wird, sinnvoller genutzt werden
-kann. Das Eselsohr ist federführend bei der Planung.
-
-### 16.9. KlimaLautern-Arbeitstreffen
+### 11.9. KlimaLautern-Arbeitstreffen
 
 Wir werden uns am 16.9. um 18:00 bei der DAA (Deutsche Angestellten
 Akademie) in der Richard-Wagner-Strasse 1
@@ -50,6 +44,12 @@ wieder treffen, siehe
 Die Arbeitsgruppen werden berichten, was sie seit dem
 letzten Treffen erreicht haben und wir werden weitere Schritte
 diskutieren. Kommt gerne dazu - wir freuen uns! 
+
+### 15.09. Parking Day
+
+Aktionstag, an dem darauf aufmerksam gemacht wird, dass der Platz, der
+zum Parken für Autos verwendet wird, sinnvoller genutzt werden
+kann. Das Eselsohr ist federführend bei der Planung.
 
 ### 16.9. World Cleanup Day
 
