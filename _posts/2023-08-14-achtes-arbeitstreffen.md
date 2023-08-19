@@ -54,7 +54,7 @@ Im August und September stehen einige Veranstaltungen an, diese können nun auch
 * 09.09., 10-16 Uhr **1. Lautrer Klimatag** auf dem Schillerplatz
 * 11.09., 18 Uhr **KlimaLautern Arbeitstreffen**
 *	15.09. **Parking Day**: Aktionstag, an dem darauf aufmerksam gemacht wird, dass der Platz, der zum Parken für Autos verwendet wird, sinnvoller genutzt werden kann. Das Eselsohr ist federführend bei der Planung. 
-*	16.09., 12-14 Uhr **World Cleanup Day**: Aktionstag, der sensibilisieren soll, in welchem Ausmaß wir unsere Umwelt zumüllen und zerstören. Gemeinsam treffen wir uns in der Innenstadt und sammeln dort Müll.
+*	16.09., 12-14 Uhr [**World Cleanup Day**](https://worldcleanupday.de/veranstaltungen/world-cleanup-day-kaiserslautern-rheinland-pfalz-2/): Aktionstag, der sensibilisieren soll, in welchem Ausmaß wir unsere Umwelt zumüllen und zerstören. Gemeinsam treffen wir uns in der Innenstadt und sammeln dort Müll.
 *	16.09. **Wiesentag** des BUND
 
 ## Zukunftsvision

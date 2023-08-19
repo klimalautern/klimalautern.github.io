@@ -36,7 +36,7 @@ kann. Das Eselsohr ist federführend bei der Planung.
 
 ### 16.9. World Cleanup Day
 
-Beim [World Cleanup Day](https://worldcleanupday.de/) sammeln wir Müll
+Beim [World Cleanup Day](https://worldcleanupday.de/veranstaltungen/world-cleanup-day-kaiserslautern-rheinland-pfalz-2/) sammeln wir Müll
 und machen die Welt so etwas besser und sauberer. Auch hier suchen wir
 noch engagierte Mitstreiter:innen.
 
