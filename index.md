@@ -6,10 +6,6 @@ description: Stadt und Landkreis Kaiserslautern klimaneutral!
 
 # Termine
 
-### 25.8.  Fledermausnacht
-
-Exkursion des NABU am Hammerwoog beim Hotel Blechhammer ab 19:25
-
 ### 9.9. Klimatag in der Innenstadt in Kaiserslautern
 
 Wir werden mit anderen Klima-Initiativen zusammen Aktionen in der
@@ -17,6 +13,8 @@ Innenstadt von Kaiserslautern durchführen. Zur weiteren Organisation
 haben wir vier Ressorts (Stände, Aktionen, Vorträge/Vorführungen,
 Werbung) gebildet. Es wurden bereits einige vielversprechende Ideen
 gesammelt, aber wir freuen uns jederzeit über weitere Unterstützung.
+Mehr Informationen gibt es auf der
+[Klimatag-Webseite](/klimatag.html).
 
 ### 11.9. KlimaLautern-Arbeitstreffen
 
@@ -28,7 +26,7 @@ Die Arbeitsgruppen werden berichten, was sie seit dem
 letzten Treffen erreicht haben und wir werden weitere Schritte
 diskutieren. Kommt gerne dazu - wir freuen uns! 
 
-### 15.09. Parking Day
+### 15.9. Parking Day
 
 Aktionstag, an dem darauf aufmerksam gemacht wird, dass der Platz, der
 zum Parken für Autos verwendet wird, sinnvoller genutzt werden
