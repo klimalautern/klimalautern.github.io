@@ -22,4 +22,4 @@ Wir laden euch ein zum 1. Lautrer Klimatag am Samstag, den 9.9.2023 von 10 bis 1
 | ![NABU Logo](/klimatag/NABU.png) | Mit ca. 900.000 Mitgliedern und Förderern der größte und älteste Verband für Umwelt- und Naturschutz in Deutschland. | Informationsmaterial und Wildblumensamen-Theke |
 | ![Stadtbild Pflege Logo](/klimatag/StadtbildPflege.png) | Kommunaler Dienstleister in den Bereichen Abfallwirtschaft, Straßenreinigung, Grünpflege | Ausstellung von bemalten Bioabfalltonnen, Magnet-Sortierspiel zur Mülltrennung, Informationen zum Thema Bioabfall/Biotonne |
 | ![Wasser Infrastruktur Ressourcen Logo](/klimatag/WasserInfrastrukturRessourcen.png) | Institut WIR (Wasser Infrastruktur Ressourcen) der RPTU Kaiserslautern, Fachbereich Bauingenieurwesen | Versickerungsexperiment zum Umgang mit Regenwasser, Poster zum Thema Wasserstoff |
-| ![ZAK Logo](/klimatag/ZAK.png) | Innovatives Abfallwirtschaftszentrum und Erzeuger regenerativer Energien | noch offen |
+| ![ZAK Logo](/klimatag/ZAK.png) | Innovatives Abfallwirtschaftszentrum und Erzeuger regenerativer Energien | Informationsstand inklusive Umweltbildung |
