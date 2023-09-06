@@ -10,6 +10,17 @@ description: Infos zum Klimatag am 9.9.2023
 
 Wir laden euch ein zum 1. Lautrer Klimatag am Samstag, den 9.9.2023 von 10 bis 16 Uhr! Gemeinsam mit anderen Klima- und Umweltinitiativen wird es Infostände und Mitmach-Aktionen auf dem Schillerplatz in Kaiserslautern geben.
 
+## Zeitplan für die Bühne
+
+| 10:30 – 11:00 | Musik vom **Orchester des Wandels** |
+| 11:30 – 11:50 | **Julia Mayer** (DFKI / Art City Living Lab): Vortrag „Bäume im Bild – warum braucht man ein Digitales Baumkataster und wie kann KI dabei helfen?“ |
+| 12:00 – 12:30 | Musik vom **Orchester des Wandels** |
+| 12:35 – 13:00 | **Klimaquiz** |
+| 13:30 - 13:50 | **Julia Mayer** (DFKI / Art City Living Lab): Vortrag „Bäume im Bild – warum braucht man ein Digitales Baumkataster und wie kann KI dabei helfen?“ |
+
+
+## Teilnehmende
+
 | **Wer ist dabei?** | **Wer ist das?** | **Was wird gemacht?** |
 | ![KlimaLautern Logo](/klimatag/KlimaLautern.png) | Bürgerinitiative für ein klimaneutrales und lebenswertes Kaiserslautern. | Ideen-Karte für besseren Radverkehr in Kaiserslautern und weitere Mitmach-Aktionen |
 | ![BUND Logo](/klimatag/BUND.png) | Kreisgruppe Kaiserslautern des Bundes für Umwelt- und Naturschutz Deutschland. | Infostand zu Naturschutz, Mobilität und mehr |
