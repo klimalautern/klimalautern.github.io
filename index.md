@@ -6,16 +6,6 @@ description: Stadt und Landkreis Kaiserslautern klimaneutral!
 
 # Termine
 
-### 9.9. Klimatag in der Innenstadt in Kaiserslautern
-
-Wir werden mit anderen Klima-Initiativen zusammen Aktionen in der
-Innenstadt von Kaiserslautern durchführen. Zur weiteren Organisation
-haben wir vier Ressorts (Stände, Aktionen, Vorträge/Vorführungen,
-Werbung) gebildet. Es wurden bereits einige vielversprechende Ideen
-gesammelt, aber wir freuen uns jederzeit über weitere Unterstützung.
-Mehr Informationen gibt es auf der
-[Klimatag-Webseite](/klimatag.html).
-
 ### 11.9. KlimaLautern-Arbeitstreffen
 
 Wir werden uns am 11.9. um 18:00 bei der DAA (Deutsche Angestellten
