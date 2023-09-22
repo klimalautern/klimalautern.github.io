@@ -11,7 +11,7 @@ description: Stadt und Landkreis Kaiserslautern klimaneutral!
 Jeden Donnerstag seit dem 7.9. bis zum 12.10. um 18:45-20:15 Uhr
 [Veranstaltungsreihe "Im PFAFF Quartier in Zukunft arbeiten und
 leben"](https://pfaff-reallabor.de/veranstaltungsreihe/)auf dem
-Pfaff-Gelände, Treffpunkt: Pfaff-Pforte Sonstiges
+Pfaff-Gelände, Treffpunkt: Pfaff-Pforte.
 
 ### 9.10. KlimaLautern-Arbeitstreffen
 
@@ -48,7 +48,7 @@ Wir arbeiten in Gruppen, die sich um diese Themen kümmern:
 
 * Öffentlichkeit und Bildung
 * Private Haushalte
-* Verkehrskonzept und Stadtgrün
+* Mobilität und Stadtbegrünung
 * Masterplan
 
 ## Steuerkreis
