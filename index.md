@@ -6,29 +6,22 @@ description: Stadt und Landkreis Kaiserslautern klimaneutral!
 
 # Termine
 
-### 11.9. KlimaLautern-Arbeitstreffen
+### Veranstaltungsreihe "Im PFAFF Quartier in Zukunft arbeiten und leben"
 
-Wir werden uns am 11.9. um 18:00 bei der DAA (Deutsche Angestellten
+Jeden Donnerstag seit dem 7.9. bis zum 12.10. um 18:45-20:15 Uhr
+[Veranstaltungsreihe "Im PFAFF Quartier in Zukunft arbeiten und
+leben"](https://pfaff-reallabor.de/veranstaltungsreihe/)auf dem
+Pfaff-Gelände, Treffpunkt: Pfaff-Pforte Sonstiges
+
+### 9.10. KlimaLautern-Arbeitstreffen
+
+Wir werden uns am 9.10. um 18:00 bei der DAA (Deutsche Angestellten
 Akademie) in der Richard-Wagner-Strasse 1
 wieder treffen, siehe
 [Anfahrtsskizze](https://daa-kaiserslautern.de/fileadmin/Standorte/daa-kaiserslautern/Kaiserlautern_Richard-Wagner-Strasse.pdf).
 Die Arbeitsgruppen werden berichten, was sie seit dem
 letzten Treffen erreicht haben und wir werden weitere Schritte
 diskutieren. Kommt gerne dazu - wir freuen uns! 
-
-### 15.9. Parking Day
-
-Aktionstag, an dem darauf aufmerksam gemacht wird, dass der Platz, der
-zum Parken für Autos verwendet wird, sinnvoller genutzt werden
-kann. Das Eselsohr ist federführend bei der Planung.
-
-### 16.9. World Cleanup Day
-
-Beim [World Cleanup Day](https://worldcleanupday.de/veranstaltungen/world-cleanup-day-kaiserslautern-rheinland-pfalz-2/) sammeln wir Müll
-und machen die Welt so etwas besser und sauberer. Auch hier suchen wir
-noch engagierte Mitstreiter:innen.
-
-### 16.9. Wiesentag des BUND
 
 ## Über uns
 
